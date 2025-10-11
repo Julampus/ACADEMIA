@@ -62,3 +62,4 @@ Wallace came up with natural selection at the same time as Darwin, though reject
 [[Natural Selection]] 
 
 Religious -> Enlightenment/Atheistic ideals
+
