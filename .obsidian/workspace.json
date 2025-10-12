@@ -12,12 +12,14 @@
             "id": "b65163a9545f96a9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Barnard 2025-2026/IntroPhil/PhilTexts/Lessons For Women - BanZhao.pdf"
+                "file": "Barnard 2025-2026/IntroPhil/Philosophers/Alan Turing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lessons For Women - BanZhao"
+              "icon": "lucide-file",
+              "title": "Alan Turing"
             }
           }
         ]
@@ -38,19 +40,8 @@
               "icon": "lucide-file-text",
               "title": "Turing - ComputingMachineryIntelligence - 1950"
             }
-          },
-          {
-            "id": "c18b9a4b54fff85d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9bd08c2ccb34b411",
@@ -131,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barnard 2025-2026/IntroPhil/PhilTexts/Lessons For Women - BanZhao.pdf",
+                "file": "Barnard 2025-2026/IntroPhil/Philosophers/Alan Turing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lessons For Women - BanZhao"
+              "title": "Outline of Alan Turing"
             }
           },
           {
@@ -223,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,8 +233,9 @@
   },
   "active": "b65163a9545f96a9",
   "lastOpenFiles": [
-    "Alan Turing.md",
     "Barnard 2025-2026/IntroPhil/PhilTexts/Turing - ComputingMachineryIntelligence - 1950.pdf",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Alan Turing.md",
+    "Barnard 2025-2026/IntroPhil/PhilTexts/Lessons For Women - BanZhao.pdf",
     "README.md",
     "Untitled 1.md",
     "Barnard 2025-2026/IntroBioO&P/Chapter 20 - Development of Evolutionary Thinking.md",
