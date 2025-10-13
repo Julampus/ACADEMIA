@@ -8,34 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13c0f9c277612445",
+            "id": "a24e2c067d2f9ba0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barnard 2025-2026/IntroPhil/Philosophers/Alan Turing.md",
+                "file": "The Child Formerly Known as _____.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alan Turing"
+              "title": "The Child Formerly Known as _____"
             }
           },
           {
-            "id": "10f5fbab87e0e8fb",
+            "id": "d57a253045716a01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barnard 2025-2026/IntroPhil/PhilLexicon/Logic.md",
+                "file": "A Primer For The Small Weird Loves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logic"
+              "title": "A Primer For The Small Weird Loves"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,22 +177,6 @@
         "currentTab": 3
       },
       {
-        "id": "4cdc0487251afef3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "750d4a91ec884d4d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
         "id": "c68334a007fa7f96",
         "type": "tabs",
         "children": [
@@ -224,8 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13c0f9c277612445",
+  "active": "d57a253045716a01",
   "lastOpenFiles": [
+    "The Child Formerly Known as _____.md",
+    "A Primer For The Small Weird Loves.md",
     "Barnard 2025-2026/IntroPhil/PhilLexicon/Logic.md",
     "Barnard 2025-2026/IntroPhil/Philosophers/Alan Turing.md",
     "Barnard 2025-2026/IntroPhil/PhilTexts/Turing - ComputingMachineryIntelligence - 1950.pdf",
@@ -252,8 +239,6 @@
     "Barnard 2025-2026/IntroPhil/Philosophers/Democritus.md",
     "Barnard 2025-2026/IntroPhil/Philosophers/Anaximenes.md",
     "Barnard 2025-2026/IntroPhil/PhilLexicon/Philosopher.md",
-    "Barnard 2025-2026/IntroPhil/PhilLexicon/Phenomenology.md",
-    "Barnard 2025-2026/IntroPhil/PhilLexicon/Form (Plato).md",
-    "Barnard 2025-2026/IntroPhil/PhilLexicon/Crito.md"
+    "Barnard 2025-2026/IntroPhil/PhilLexicon/Phenomenology.md"
   ]
 }
