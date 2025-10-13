@@ -11,7 +11,11 @@ Divided into:
 		Especially helpful in scientific communications
 	**Formal Logic -** looks at the types of arguments and whether or not they are valid and sound
 
-Valid
+Valid logic
 	No logical gaps in the connections
-Sound
-	True premises
+Sound logic
+	Built upon premises
+
+If *p*, then **q**
+	*p* is a sufficient condition for **q**
+	**q** is a necessary condition for *p*
