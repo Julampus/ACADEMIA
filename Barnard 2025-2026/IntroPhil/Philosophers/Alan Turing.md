@@ -45,6 +45,15 @@ Concedes the existence of souls
 	*Argument from Continuity in the Nervous System*
 	"The human body is a continuous, indiscrete system which the machine will never be"
 	Yes, but it can come indistinguishably close thanks to repeated probabilities to replicate intermediate states
+	*Argument from Informality of Behavior*
+	Machines don't have to follow the rules all the time, just like humans. You can't boil down all of a human's actions into just a set of rules.
+
+To replicate a human mind in a machine, you must consider:
+	Its initial state
+	Its education
+	Other external experiences
+
+Rather than creating an adult robot, making a child robot may prove easier to consider all possible outcomes needed for replication -> The *Learning Machine*
 ## Thought Cabinet
 Do humans have infinite "store" space 
 	Or even merely the potential for such?

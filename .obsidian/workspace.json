@@ -6,7 +6,6 @@
       {
         "id": "a82bd4949f52aaee",
         "type": "tabs",
-        "dimension": 37.03438395415473,
         "children": [
           {
             "id": "b65163a9545f96a9",
@@ -20,25 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Alan Turing"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4aab2dfdf2fbe086",
-        "type": "tabs",
-        "dimension": 62.96561604584527,
-        "children": [
-          {
-            "id": "186f6e4eccc2844e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Barnard 2025-2026/IntroPhil/PhilTexts/Turing - ComputingMachineryIntelligence - 1950.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Turing - ComputingMachineryIntelligence - 1950"
             }
           }
         ]
@@ -90,7 +70,7 @@
       {
         "id": "1e5b7ca93edeb836",
         "type": "tabs",
-        "dimension": 24.449877750611247,
+        "dimension": 24.449877750611243,
         "children": [
           {
             "id": "92813b666f8cb742",
@@ -106,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9bd08c2ccb34b411",
@@ -122,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barnard 2025-2026/IntroPhil/PhilTexts/Turing - ComputingMachineryIntelligence - 1950.pdf",
+                "file": "Barnard 2025-2026/IntroPhil/Philosophers/Alan Turing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Turing - ComputingMachineryIntelligence - 1950"
+              "title": "Outline of Alan Turing"
             }
           },
           {
@@ -230,10 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "186f6e4eccc2844e",
+  "active": "b65163a9545f96a9",
   "lastOpenFiles": [
-    "Barnard 2025-2026/IntroPhil/Philosophers/Alan Turing.md",
     "Barnard 2025-2026/IntroPhil/PhilTexts/Turing - ComputingMachineryIntelligence - 1950.pdf",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Alan Turing.md",
     "Barnard 2025-2026/CS50/Linked List.md",
     "Barnard 2025-2026/CS50/Dynamic Memory Allocation.md",
     "Barnard 2025-2026/IntroPhil/PhilTexts/Lessons For Women - BanZhao.pdf",
