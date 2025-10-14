@@ -6,6 +6,7 @@
       {
         "id": "8246733d098b37ed",
         "type": "tabs",
+        "dimension": 28.868194842406876,
         "children": [
           {
             "id": "2dcbba4a26bfcdfc",
@@ -13,12 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "David Lewis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "David Lewis"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a118d11c67c14b87",
+        "type": "tabs",
+        "dimension": 71.13180515759312,
+        "children": [
+          {
+            "id": "f09ab6b0cecdeb75",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Barnard 2025-2026/IntroPhil/PhilTexts/DavidLewis-AreWeFreeToBreakTheLaws.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DavidLewis-AreWeFreeToBreakTheLaws"
             }
           }
         ]
@@ -86,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9bd08c2ccb34b411",
@@ -196,7 +217,9 @@
   },
   "active": "2dcbba4a26bfcdfc",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Barnard 2025-2026/IntroPhil/PhilTexts/DavidLewis-AreWeFreeToBreakTheLaws.pdf",
+    "David Lewis.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Peter Van Inwagen.md",
     "Barnard 2025-2026/IntroBioO&P/BioLexicon/Species.md",
     "Barnard 2025-2026/IntroBioO&P/BioLexicon/Speciation.md",
     "Barnard 2025-2026/IntroBioO&P/Chapter 22 - Speciation.md",
@@ -222,8 +245,6 @@
     "Barnard 2025-2026/IntroBioO&P/Chapter 51 - Ecology and the Biosphere.md",
     "Barnard 2025-2026/IntroBioO&P/Chapter 52 - Population Ecology.md",
     "Barnard 2025-2026/IntroBioO&P/Chapter 53 - Species Interactions.md",
-    "Barnard 2025-2026/IntroBioO&P/Chapter 54 - Ecosystems and Global Change.md",
-    "Barnard 2025-2026/IntroBioO&P/Chapter 56 - Animal Behavior.md",
-    "Barnard 2025-2026/IntroBioO&P/Chapter 55 - Biodiversity and Conservation Biology.md"
+    "Barnard 2025-2026/IntroBioO&P/Chapter 54 - Ecosystems and Global Change.md"
   ]
 }

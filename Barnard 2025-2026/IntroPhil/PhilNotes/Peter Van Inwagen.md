@@ -1,5 +1,6 @@
-By *Peter Van Inwagen*
+
 #philosophy 
+**The Incompatibility of Free Will and Determinism**
 
 Establishes a definition for [[Determinism]] , and claims that the notion of a deterministic universe is incompatible with Free Will
 Briefly: that, given the 'state of the universe' one can determine all subsequent states by following the laws of physics
