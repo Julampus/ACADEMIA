@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a82bd4949f52aaee",
+        "id": "8246733d098b37ed",
         "type": "tabs",
         "children": [
           {
-            "id": "a24e2c067d2f9ba0",
+            "id": "b7d100f0035225bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Child Formerly Known as _____.md",
+                "file": "Barnard 2025-2026/IntroBioO&P/Chapter 22 - Speciation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Child Formerly Known as _____"
-            }
-          },
-          {
-            "id": "d57a253045716a01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Primer For The Small Weird Loves.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Primer For The Small Weird Loves"
+              "title": "Chapter 22 - Speciation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9bd08c2ccb34b411",
@@ -194,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,10 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d57a253045716a01",
+  "active": "b7d100f0035225bd",
   "lastOpenFiles": [
-    "The Child Formerly Known as _____.md",
-    "A Primer For The Small Weird Loves.md",
+    "Barnard 2025-2026/IntroBioO&P/Organisms/Paradisaea apoda.md",
+    "Barnard 2025-2026/IntroBioO&P/Organisms/Organism Masterlist.md",
+    "Barnard 2025-2026/IntroBioO&P/Chapter 22 - Speciation.md",
+    "Biology - The Dynamic Science.pdf.md",
+    "Barnard 2025-2026/FYW The Queer-Trans Self/The Child Formerly Known as _____.md",
+    "Barnard 2025-2026/FYW The Queer-Trans Self/A Primer For The Small Weird Loves.md",
     "Barnard 2025-2026/IntroPhil/PhilLexicon/Logic.md",
     "Barnard 2025-2026/IntroPhil/Philosophers/Alan Turing.md",
     "Barnard 2025-2026/IntroPhil/PhilTexts/Turing - ComputingMachineryIntelligence - 1950.pdf",
@@ -235,10 +224,6 @@
     "Barnard 2025-2026/IntroPhil/Philosophers/Anaxagoras.md",
     "Barnard 2025-2026/IntroPhil/Philosophers/Anaximander.md",
     "Barnard 2025-2026/IntroBioO&P/Organisms/Literature/Republic.md",
-    "Barnard 2025-2026/IntroPhil/Philosophers/Ibn Rushd.md",
-    "Barnard 2025-2026/IntroPhil/Philosophers/Democritus.md",
-    "Barnard 2025-2026/IntroPhil/Philosophers/Anaximenes.md",
-    "Barnard 2025-2026/IntroPhil/PhilLexicon/Philosopher.md",
-    "Barnard 2025-2026/IntroPhil/PhilLexicon/Phenomenology.md"
+    "Barnard 2025-2026/IntroPhil/Philosophers/Ibn Rushd.md"
   ]
 }

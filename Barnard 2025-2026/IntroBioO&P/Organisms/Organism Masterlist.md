@@ -11,6 +11,7 @@ This is gonna be a big one...
 [[Cyanobacteria]]
 #### Birds
 [[Geospiza]]
+[[Paradisaea apoda]]
 #### Fish
 [[Trout]]
 #### Mammalia
