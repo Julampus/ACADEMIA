@@ -2,7 +2,7 @@
 #philosophy 
 **The Incompatibility of Free Will and Determinism**
 
-Establishes a definition for [[Determinism]] , and claims that the notion of a deterministic universe is incompatible with Free Will
+Establishes a definition for [[Determinism]], and claims that the notion of a deterministic universe is incompatible with [[Free Will]]
 Briefly: that, given the 'state of the universe' one can determine all subsequent states by following the laws of physics
 
 Distinguishes "laws of physics" (what's followed in his defining of free will; laws defining matter and movement) with "laws of nature" (laws that dictate behavior and interaction of life)
@@ -15,10 +15,21 @@ In a more formal language:
 	where "..." is replaced by the names of the propositions
 The "idiomatic form" of the argument
 
-
 If anyone has the power to render a proposition false (to not choose a possibility) then the proposition is not a law of physics
 
 In a situation where a judge must decide to or not to raise his hand:
 A judge, J, is dependent on pasts before he was born that are out of his control. As such, the judge could never have chosen to or not to raise his hand
 
 Discusses the conditional analysis of free will, which says that if an action is chosen, the subject *would* perform such an action... difficult to dispute other than the fact that there 1
+
+His logic in following is argument:
+	**P sub0**: The entire description of the world at time ==T sub0==
+	**P**: The entire description of the world at time ==T==
+	*L*: Laws of nature, a giant conjunction that describes how the world progresses
+	==T sub0==: An arbitrary starting point
+	==T==: A time later than ==T sub0==
+van Inwagen argues that **P** can be logically derived from *L* and **P sub0**
+## Thought Cabinet
+Distinctly not causal, but rather there is a "logical entailment relationship" (the laws described don't necessarily need to be causal)
+
+If you want to say that **P** formed differently than what *L* and **P sub0** predicted, than you either must be able to break physical laws or rewrite history
