@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8246733d098b37ed",
+        "id": "ec5c1323a146dbc2",
         "type": "tabs",
-        "dimension": 28.868194842406876,
         "children": [
           {
-            "id": "2dcbba4a26bfcdfc",
+            "id": "107d7436921b14c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "David Lewis.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "David Lewis"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a118d11c67c14b87",
-        "type": "tabs",
-        "dimension": 71.13180515759312,
-        "children": [
-          {
-            "id": "f09ab6b0cecdeb75",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Barnard 2025-2026/IntroPhil/PhilTexts/DavidLewis-AreWeFreeToBreakTheLaws.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DavidLewis-AreWeFreeToBreakTheLaws"
+              "title": "New tab"
             }
           }
         ]
@@ -215,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2dcbba4a26bfcdfc",
+  "active": "107d7436921b14c5",
   "lastOpenFiles": [
     "Barnard 2025-2026/IntroPhil/PhilTexts/DavidLewis-AreWeFreeToBreakTheLaws.pdf",
     "David Lewis.md",
