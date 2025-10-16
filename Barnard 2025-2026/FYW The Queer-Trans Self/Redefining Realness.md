@@ -3,8 +3,7 @@
 #queer 
 
 *On: writing oneself as trans and how language influences us*
-
-
+See [[Mock, Janet - Ch1.pdf]], [[Mock, Janet - Ch6.pdf]], and [[Mock, Janet - Ch8.pdf]]
 #### Chapter One
 It's difficult to write about the "un-trans" self in the past (need to use he or just use the name) versus the present, trans self (using she)
 	There is a discrepancy, a distance (even though its the same self)
@@ -29,7 +28,6 @@ There's always an implied distance between the two sexes, the two genders:
 The very same things that made her father masculine (strength, fear of punishment, safety) - ("strong, dutiful, outspoken"s) was what made her grandmother, feminine.
 
 Expression and Identity are inextricably linked with experience, environment, race, relationships, etc.
-
 #### Chapter Six
 *Keisha* represents the false identity, the distance felt, of wanting to know the self but never being able to
 The masculine represented as smelling "unclean..." as something that is covered up or removed, but always comes back

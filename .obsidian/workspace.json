@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barnard 2025-2026/IntroBioO&P/Chapter 23 - Paleobiology and Macroevolution.md",
+                "file": "Barnard 2025-2026/IntroPhil/PhilLexicon/Nancy Lee Swann.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 23 - Paleobiology and Macroevolution"
+              "title": "Nancy Lee Swann"
+            }
+          },
+          {
+            "id": "9d15f02f80ad3883",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Barnard 2025-2026/IntroPhil/PhilDocs/Turing - ComputingMachineryIntelligence - 1950.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Turing - ComputingMachineryIntelligence - 1950"
             }
           }
         ]
@@ -86,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 292.5
   },
   "right": {
     "id": "9bd08c2ccb34b411",
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barnard 2025-2026/IntroBioO&P/Chapter 23 - Paleobiology and Macroevolution.md",
+                "file": "Barnard 2025-2026/IntroPhil/PhilLexicon/Nancy Lee Swann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 23 - Paleobiology and Macroevolution"
+              "title": "Backlinks for Nancy Lee Swann"
             }
           },
           {
@@ -180,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,38 +210,41 @@
   },
   "active": "1e10f343be854739",
   "lastOpenFiles": [
-    "Archaeopteryx.md",
-    "Barnard 2025-2026/IntroBioO&P/Chapter 23 - Paleobiology and Macroevolution.md",
-    "Barnard 2025-2026/IntroBioO&P/Organisms/Organism Masterlist.md",
     "Barnard 2025-2026/IntroBioO&P/Chapter 21 - Microevolution and Genetic Changes within Populations.md",
-    "Barnard 2025-2026/IntroBioO&P/Chapter 20 - Development of Evolutionary Thinking.md",
-    "Barnard 2025-2026/FYW The Queer-Trans Self/Exile and Pride.md",
-    "README.md",
-    "Barnard 2025-2026/IntroBioO&P/Chapter 55 - Biodiversity and Conservation Biology.md",
-    "Biology - The Dynamic Science.pdf.md",
-    "Barnard 2025-2026/IntroBioO&P/Chapter 51 - Ecology and the Biosphere.md",
-    "Barnard 2025-2026/IntroBioO&P/Organisms/Geospiza.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Biome.md",
-    "Barnard 2025-2026/FYW The Queer-Trans Self/FYWDocs/Exile and Pride - Freaks and Queers.pdf",
-    "Barnard 2025-2026/FYW The Queer-Trans Self/FYWDocs/Exile and Pride - The Mountain.pdf",
-    "Barnard 2025-2026/IntroPhil/PhilNotes/Peter van Inwagen.md",
-    "Barnard 2025-2026/IntroPhil/Philosophers/David Lewis.md",
-    "TheMountain-Exile and Pride.pdf",
-    "Barnard 2025-2026/IntroPhil/PhilLexicon/Compatibilist.md",
-    "Barnard 2025-2026/IntroPhil/PhilLexicon/Free Will.md",
-    "Barnard 2025-2026/IntroPhil/PhilLexicon/Determinism.md",
-    "Barnard 2025-2026/IntroPhil/PhilTexts/DavidLewis-AreWeFreeToBreakTheLaws.pdf",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Species.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Speciation.md",
-    "Barnard 2025-2026/IntroBioO&P/Chapter 22 - Speciation.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Reproductive Isolation.md",
-    "Barnard 2025-2026/IntroBioO&P/Organisms/Paradisaea apoda.md",
-    "Barnard 2025-2026/FYW The Queer-Trans Self/The Child Formerly Known as _____.md",
-    "Barnard 2025-2026/FYW The Queer-Trans Self/A Primer For The Small Weird Loves.md",
-    "Barnard 2025-2026/IntroPhil/PhilLexicon/Logic.md",
-    "Barnard 2025-2026/IntroPhil/Philosophers/Alan Turing.md",
-    "Barnard 2025-2026/IntroPhil/PhilTexts/Turing - ComputingMachineryIntelligence - 1950.pdf",
-    "Barnard 2025-2026/IntroPhil/PhilTexts/Lessons For Women - BanZhao.pdf",
-    "Barnard 2025-2026/IntroBio/Biology - The Dynamic Science.pdf"
+    "Barnard 2025-2026/IntroPhil/PhilDocs/Turing - ComputingMachineryIntelligence - 1950.pdf",
+    "Barnard 2025-2026/IntroPhil/PhilDocs/Springer - TheIncompatibilityofFreeWillandDeterminism.pdf",
+    "Barnard 2025-2026/IntroPhil/PhilDocs/Ban Zhao - Traveling Eastward.pdf",
+    "Barnard 2025-2026/IntroPhil/PhilDocs/Ban Zhao - Three Short Poems.pdf",
+    "Barnard 2025-2026/IntroPhil/PhilDocs/Ban Zhao - Lessons For Women.pdf",
+    "Barnard 2025-2026/IntroPhil/PhilDocs/Descartes.pdf",
+    "Barnard 2025-2026/IntroPhil/PhilDocs/DavidLewis-AreWeFreeToBreakTheLaws.pdf",
+    "Barnard 2025-2026/IntroPhil/PhilDocs/Augustine - Confessions.pdf",
+    "Barnard 2025-2026/IntroPhil/PhilLexicon/Nancy Lee Swann.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Travelling Eastward.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/The Needle and Thread.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Lessons for Women.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Guide for the Perplexed.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Euthyphro.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Enchiridion.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Confessions.md",
+    "Barnard 2025-2026/IntroPhil/PhilDocs/Augustine, Enchiridion.pdf",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Being Trans in Philosophy.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Apology (Plato).md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Analects.md",
+    "Barnard 2025-2026/IntroPhil/PhilDocs/Kongzi.pdf",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/The Undergraduate Pipeline Problem.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/The History of Philosophy.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/The Decisive Treatise.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Philosophy As an Antidote to Injustice.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Phaedo.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/What is the Philosopher.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Socrates.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Leo Strauss.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Kongzi.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Zhuangzi.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Heraclitus.md",
+    "Barnard 2025-2026/IntroPhil/PhilLexicon/Agape.md",
+    "Barnard 2025-2026/IntroBioO&P/O&P Bio-Syllabus.md",
+    "Barnard 2025-2026/IntroBioO&P/Chapter 20 - Development of Evolutionary Thinking.md"
   ]
 }

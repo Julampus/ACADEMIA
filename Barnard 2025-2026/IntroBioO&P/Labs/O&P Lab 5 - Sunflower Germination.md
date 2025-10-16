@@ -1,4 +1,9 @@
 #biology #lab 
+## Lab Description
+In this lab, we planted sunflower ([[Asteraceae]]) seeds in three planters filled with different growing media: Soil, Soil & Gravel, and Soil & Woodchips. We predicted that the sunflowers would grow best in pure soil, as the general scientific consensus is that sunflowers growing in soil and woodchips slows growth rate and stunts potential growth height.
+A dissection of the individual florets of the sunflower was conducted.
+A collection and analysis of the data will be performed the following lab
+## Notes
 Two main parts of plant reproductive system:
 	*Stamen* (male reproductive organ)
 		Anther (pollen grain development)

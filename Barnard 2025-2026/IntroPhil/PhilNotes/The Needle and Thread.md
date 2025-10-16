@@ -1,4 +1,5 @@
 #philosophy #poetry 
+
 From [[Nancy Lee Swann]] - Ban Zhao
 Needle and Thread live in harmony, piercing and tying respectively -> The potential to create and mimic nature, to create art 
 	A metaphor for parenthood

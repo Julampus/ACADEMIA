@@ -2,4 +2,4 @@
 
 e.g. the sunflower, example of inflorescence
 
-See [[Lab 5 - Sunflower Germination]]
+See [[O&P Lab 5 - Sunflower Germination]]

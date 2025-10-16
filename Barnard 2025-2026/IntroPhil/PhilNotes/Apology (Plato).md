@@ -1,8 +1,8 @@
 #philosophy 
-
 Written by [[Plato]]
 Comes after [[Euthyphro]] and before [[Crito]]
-*Assigned* 17a–26b and 35e–42a from [[Plato, Euthyphro, Apology, and Crito.pdf]]
+*Assigned* 17a–26b and 35e–42a from 
+[[Plato, Euthyphro, Apology, and Crito.pdf]]
 ## Main Text
 Interestingly enough, uses the phrase "by Zeus," even as an atheist
 What is just and [[Justice]]

@@ -13,7 +13,7 @@ Also, "two contraries cannot coexist in a single thing"
 Things that are entirely deprived of good are incorruptible (a good trait) = there exists a contradiction
 When you run out of good in you, you cannot be called evil (as you cannot be relative to the better things)
 
-## [[Confessions (Augustine)]]
+## [[Confessions]]
 
 ## [[Enchiridion]]
 

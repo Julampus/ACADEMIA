@@ -1,7 +1,7 @@
 #philosophy 
 *VII.xi (17)–xiii (19)*
-See [[Confessions (Augustine).pdf]]
 By [[Augustine of Hippo]] 
+See [[Augustine - Confessions.pdf]]
 ### A Neoplatonic Quest
 A response to the problem of evil: Evil, or badness, is *relative* - God did not create evil as all things God created are good
 "Things that are liable to corruption are good"
