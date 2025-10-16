@@ -1,6 +1,5 @@
 #biology 
 ## Introduction
-A chapter from [[Biology - The Dynamic Science.pdf]]
 Wind flows from east to west over the pacific, influencing climate in South America, North America, Southeast Asia, and Australia
 **El Nino** current (nutrient poor and warm) causes climate devastation due to altered weather patterns
 	i.e. rainforests burning

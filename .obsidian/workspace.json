@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 23 - Paleobiology and Macroevolution.md",
+                "file": "Barnard 2025-2026/IntroBioO&P/Chapter 23 - Paleobiology and Macroevolution.md",
                 "mode": "source",
                 "source": false
               },
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9bd08c2ccb34b411",
@@ -118,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Barnard 2025-2026/IntroBioO&P/Chapter 23 - Paleobiology and Macroevolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Chapter 23 - Paleobiology and Macroevolution"
             }
           },
           {
@@ -136,11 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Barnard 2025-2026/IntroBioO&P/Chapter 23 - Paleobiology and Macroevolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Chapter 23 - Paleobiology and Macroevolution"
             }
           },
           {
@@ -159,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "c68334a007fa7f96",
@@ -179,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,13 +197,19 @@
   },
   "active": "1e10f343be854739",
   "lastOpenFiles": [
-    "Barnard 2025-2026/IntroBioO&P/Organisms/Geospiza.md",
+    "Archaeopteryx.md",
+    "Barnard 2025-2026/IntroBioO&P/Chapter 23 - Paleobiology and Macroevolution.md",
     "Barnard 2025-2026/IntroBioO&P/Organisms/Organism Masterlist.md",
-    "Chapter 23 - Paleobiology and Macroevolution.md",
+    "Barnard 2025-2026/IntroBioO&P/Chapter 21 - Microevolution and Genetic Changes within Populations.md",
+    "Barnard 2025-2026/IntroBioO&P/Chapter 20 - Development of Evolutionary Thinking.md",
+    "Barnard 2025-2026/FYW The Queer-Trans Self/Exile and Pride.md",
+    "README.md",
+    "Barnard 2025-2026/IntroBioO&P/Chapter 55 - Biodiversity and Conservation Biology.md",
     "Biology - The Dynamic Science.pdf.md",
+    "Barnard 2025-2026/IntroBioO&P/Chapter 51 - Ecology and the Biosphere.md",
+    "Barnard 2025-2026/IntroBioO&P/Organisms/Geospiza.md",
     "Barnard 2025-2026/IntroBioO&P/BioLexicon/Biome.md",
     "Barnard 2025-2026/FYW The Queer-Trans Self/FYWDocs/Exile and Pride - Freaks and Queers.pdf",
-    "Exile and Pride.md",
     "Barnard 2025-2026/FYW The Queer-Trans Self/FYWDocs/Exile and Pride - The Mountain.pdf",
     "Barnard 2025-2026/IntroPhil/PhilNotes/Peter van Inwagen.md",
     "Barnard 2025-2026/IntroPhil/Philosophers/David Lewis.md",
@@ -222,13 +228,7 @@
     "Barnard 2025-2026/IntroPhil/PhilLexicon/Logic.md",
     "Barnard 2025-2026/IntroPhil/Philosophers/Alan Turing.md",
     "Barnard 2025-2026/IntroPhil/PhilTexts/Turing - ComputingMachineryIntelligence - 1950.pdf",
-    "Barnard 2025-2026/CS50/Linked List.md",
-    "Barnard 2025-2026/CS50/Dynamic Memory Allocation.md",
     "Barnard 2025-2026/IntroPhil/PhilTexts/Lessons For Women - BanZhao.pdf",
-    "README.md",
-    "Untitled 1.md",
-    "Barnard 2025-2026/IntroBioO&P/Chapter 20 - Development of Evolutionary Thinking.md",
-    "Barnard 2025-2026/IntroBioO&P/Bio-Syllabus.md",
     "Barnard 2025-2026/IntroBio/Biology - The Dynamic Science.pdf"
   ]
 }
