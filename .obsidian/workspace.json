@@ -6,39 +6,19 @@
       {
         "id": "ec5c1323a146dbc2",
         "type": "tabs",
-        "dimension": 20.484949832775918,
         "children": [
           {
-            "id": "71f695f762ab23cb",
+            "id": "1e10f343be854739",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exile and Pride.md",
+                "file": "Chapter 23 - Paleobiology and Macroevolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exile and Pride"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c307b995f6a73fde",
-        "type": "tabs",
-        "dimension": 79.51505016722408,
-        "children": [
-          {
-            "id": "ca3267c8590da804",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Barnard 2025-2026/FYW The Queer-Trans Self/FYWDocs/Exile and Pride - Freaks and Queers.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Exile and Pride - Freaks and Queers"
+              "title": "Chapter 23 - Paleobiology and Macroevolution"
             }
           }
         ]
@@ -215,10 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca3267c8590da804",
+  "active": "1e10f343be854739",
   "lastOpenFiles": [
-    "Exile and Pride.md",
+    "Barnard 2025-2026/IntroBioO&P/Organisms/Geospiza.md",
+    "Barnard 2025-2026/IntroBioO&P/Organisms/Organism Masterlist.md",
+    "Chapter 23 - Paleobiology and Macroevolution.md",
+    "Biology - The Dynamic Science.pdf.md",
+    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Biome.md",
     "Barnard 2025-2026/FYW The Queer-Trans Self/FYWDocs/Exile and Pride - Freaks and Queers.pdf",
+    "Exile and Pride.md",
     "Barnard 2025-2026/FYW The Queer-Trans Self/FYWDocs/Exile and Pride - The Mountain.pdf",
     "Barnard 2025-2026/IntroPhil/PhilNotes/Peter van Inwagen.md",
     "Barnard 2025-2026/IntroPhil/Philosophers/David Lewis.md",
@@ -232,8 +217,6 @@
     "Barnard 2025-2026/IntroBioO&P/Chapter 22 - Speciation.md",
     "Barnard 2025-2026/IntroBioO&P/BioLexicon/Reproductive Isolation.md",
     "Barnard 2025-2026/IntroBioO&P/Organisms/Paradisaea apoda.md",
-    "Barnard 2025-2026/IntroBioO&P/Organisms/Organism Masterlist.md",
-    "Biology - The Dynamic Science.pdf.md",
     "Barnard 2025-2026/FYW The Queer-Trans Self/The Child Formerly Known as _____.md",
     "Barnard 2025-2026/FYW The Queer-Trans Self/A Primer For The Small Weird Loves.md",
     "Barnard 2025-2026/IntroPhil/PhilLexicon/Logic.md",
@@ -246,8 +229,6 @@
     "Untitled 1.md",
     "Barnard 2025-2026/IntroBioO&P/Chapter 20 - Development of Evolutionary Thinking.md",
     "Barnard 2025-2026/IntroBioO&P/Bio-Syllabus.md",
-    "Barnard 2025-2026/IntroBioO&P/Bio Study Guide.md",
-    "Barnard 2025-2026/IntroBio/Biology - The Dynamic Science.pdf",
-    "Barnard 2025-2026/IntroBioO&P/Chapter 21 - Microevolution and Genetic Changes within Populations.md"
+    "Barnard 2025-2026/IntroBio/Biology - The Dynamic Science.pdf"
   ]
 }
