@@ -13,7 +13,7 @@ Garter snakes have food preferences (a behavior) that is dependent on a genetic 
 
 E.g. in herring gulls, the red dot on their bill cause offspring to start begging
 
-[[Learning (Behavior)]] 
+[[Learning (Biology)]] 
 ### 56.2 - Neurophysiological and Endocrine Control of Behavior
 **Proximate causes** Anatomy, physiology, and organismal biochemistry (e.g. Hormones) all interact with behavior
 vs. *Ultimate causes* - why behaviors have adaptive value and why the genetic and physiological mechanisms subject to change

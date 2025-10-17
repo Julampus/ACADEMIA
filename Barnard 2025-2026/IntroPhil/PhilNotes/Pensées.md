@@ -1,6 +1,6 @@
 #philosophy 
 Written by [[Blaise Pascal]]
-
+See [[Pascal.pdf]]
 ## Main Text
 People cannot prove the existence of God, as there is no knowing the extent or limits of God
 People know there exists infinity, but not its limits because it is outside our finite range

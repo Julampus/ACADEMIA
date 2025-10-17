@@ -1,5 +1,6 @@
 #philosophy 
 By *[[Ibn Sina]]*
+From [[Ibn Sina, Salvation.pdf]]
 
 **The Proof of the Necessarily Existent**
 Existence can be

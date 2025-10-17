@@ -1,10 +1,8 @@
 #biology 
-This is gonna be a big one...
-
 #### Plants
 [[Asteraceae]]
 [[Brassica]]
-##### Angiosperms
+#### Angiosperms
 [[Compositae]]
 #### Algae 
 [[Green Algae]]
@@ -17,8 +15,12 @@ This is gonna be a big one...
 #### Fish
 [[Trout]]
 #### Mammalia
+##### Placental
 [[Chaetodipus]]
+[[Homo sapiens]]
+##### Marsupial
 #### Arthropods
 [[Daphnia]]
 [[Bosmina]]
 [[Eurosta]]
+

@@ -23,3 +23,8 @@ Later, the *modern synthesis*, a combination of morphology, embryology, paleonto
 Proven by fossil evidence, ABR, comparative morphology (analyzing homologous traits), historical biogeography (especially with neighboring islands, though also with pangea)
 
 orthogenesis - evolution produces organisms with the goal of improvement (wrong because there is no fixed goal)
+
+Two theories of how evolution works:
+*Phyletic Gradualism* - species change goes slowly and steadily
+**Punctuated Equilibrium** - species remain relatively unchanged with bursts of evolutionary action
+		E.g. a bottle neck event

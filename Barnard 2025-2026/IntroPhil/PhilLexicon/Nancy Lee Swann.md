@@ -1,7 +1,6 @@
 #philosophy 
 By **Ban Zhao**
-See [[Ban Zhao - Three Short Poems.pdf]], [[Ban Zhao - Lessons For Women.pdf]], and [[]]
-
+See [[Ban Zhao - Three Short Poems.pdf]], [[Ban Zhao - Lessons For Women.pdf]], and [[Ban Zhao - Traveling Eastward.pdf]]
 ### Lessons for Women
 [[Lessons for Women]]
 ### The Needle and Thread

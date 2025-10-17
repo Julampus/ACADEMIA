@@ -9,13 +9,13 @@ Two main parts of plant reproductive system:
 		Anther (pollen grain development)
 		Filament (stalk of the organ)
 	**Carpel** (female reproductive organ)
-		Stigma (tip of the *pistil (central stem of flower)*
+		Stigma (tip of the *pistil (central stem of flower)*)
 		Style (stalk of the *pistil*)
 		Ovary (rounded base of the *pistil*)
 		Ovule (internal organ within the ovary)
 
 ***Pollination:***
-Pollen grains from stamen's anther -> Stigma in carpel
+Pollen grains from *stamen*'s anther -> Stigma in **carpel**
 
 *Inflorescence*
 Composed of a group of many flowers put together
@@ -36,7 +36,7 @@ Sunflower fruit - Achene
 	*Seed* - inner product... the part you consume
 			Endosperm - nutritious tissue within seed, results from fertilization by second plant sperm
 			Seed embryo:
-				==Cotyledons== - seed leaf (embryonic center of the seed)
+				==Cotyledons== - seed leaf (embryonic center of the seed; serves as nutritional center of plant until it can germinate)
 				<u>Radicle</u> - embryonic root
 				Hypocotyl - region where cotyledons attach to radicle
 				[Plumule] - everything you find above the soil

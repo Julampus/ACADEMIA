@@ -1,9 +1,10 @@
 #biology 
 ## Main Text
 *Microevolution* - a single heritable change that occurs within a population (often within the span of a single population lifetime)
+	Or more simply, [[Evolution]] on the micro scale
 #### 21.1 - Variation in Natural Populations
-**Phenotypic variation** - v ariations of size, growth, colour, etc. - can be quantized with a mean often able to be found (unless expression is completely random, though it still is restricted by a range of expression)
-	can be seen across species within a population
+**Phenotypic variation** - variations of size, growth, colour, etc. - can be quantized with a mean often able to be found (unless expression is completely random, though it still is restricted by a range of expression)
+	Can be seen across species within a population
 	Can see the change in genotype expression over time through *artificial selection*
 
 Though ***quantitative*** (discrete) variations usually occur due to varying expressions of a single gene, ***qualitative*** variations usually toggle between two or more distinct states (e.g. Two distinct colors of snow goose (white and blue))

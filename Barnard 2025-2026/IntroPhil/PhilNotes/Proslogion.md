@@ -1,6 +1,8 @@
 *With the Replies of Gaunilo and Anselm* 
 #philosophy 
 
+[[Anselm and Gaunilo.pdf]]
+
 Anselm, Proslogion, chaps. 1–5, 15
 Gaunilo, “Reply on Behalf of the Fool”
 Anselm, “Reply to Gaunilo”
