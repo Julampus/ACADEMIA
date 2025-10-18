@@ -51,7 +51,7 @@ Angiosperms produce seeds enclosed by fruit
 ## Substrate Paper
 Germination rate was highest in soil substrates
 	More sawdust saw a decrease in germination rate
-Seedling height highest in sand substrates (with poultry manure) (with soil closely behind)
+	Seedling height highest in sand substrates (with poultry manure) (with soil closely behind)
 
 Note: all germination rates in the study were less than 80%
 	 due to poor soil water content (7), seed soil contact (31), inaccurate seed placement, low and high soil temperatures (7), soil insects or soil borne disease, soil compaction or smearing (23), and surface crusting after sowing and poor quality seeds

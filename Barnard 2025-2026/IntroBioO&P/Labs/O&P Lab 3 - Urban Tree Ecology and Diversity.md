@@ -4,6 +4,7 @@
 In this lab, we went out and identified five trees located on 114th street planted by the city of New York City. We conducted these identifications by analyzing the shape and structure of the tree's leaves. We also conducted an evaluation on the general health of the trees.
 We also researched different organizations based in NYC that have to do with environmental advocacy.
 My group looked specifically at [Forest for All](https://forestforall.nyc/), a nonprofit organization whose mission is to build and maintain a healthy urban forest for all by advocating for informed and productive environmental legislation and increase awareness on environmental advocacy.
+We also learned about how HOLC, the Home Owners Loan Corporation, would label neighborhoods as desirable or undesirable based on supposed credit risk, drastically changing the housing that people of color had access to. This is an act called redlining, and its effects are still visible in the city today.
 ## Notes
 Urban forests (anywhere where there exists a collection of trees) provide huge benefits to cities, especially NYC
 	Helps prevent NYC sewage overflow, as tree roots suck up most of the rain water that would otherwise go into sewage and storm drains
@@ -20,8 +21,6 @@ The trees must be counted and actively taken care of
 			Palmately  - centered around a point
 			Pinnately - centered around an axis
 		Simple (Just one leaf blade)
-			Palmately  - centered around a point
-			Pinnately - centered around an axis
 	Also
 		Alternate arrangement on branch
 		Opposite arrangement on branch
