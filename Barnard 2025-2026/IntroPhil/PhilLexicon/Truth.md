@@ -11,3 +11,5 @@ Types of questions:
 	Also the "WTF" types of questions (what's going on, what are we doing here, )
 
 [[Parmenides]] argued that sense experience cannot wholly describe the truth of "what-is"
+
+There exist truths or knowledge that is *a priori* - fundamental truths that can be come to through deduction alone - and *a posteriori* - truths that can be determined through empirical evidence

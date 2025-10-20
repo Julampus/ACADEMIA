@@ -1,7 +1,10 @@
 #philosophy 
 **Are We Free to Break the Law**
-See [[DavidLewis-AreWeFreeToBreakTheLaws.pdf]]
+See [[DavidLewis-AreWeFreeToBreakTheLaws.pdf]], [[Lewis - ParadoxesTimeTravel - 1976.pdf]]
+![[OIP-2569817986.jpg]]
+Wrote [[The Paradoxes of Time Travel]]
 
+In *Are We Free to Break the Laws*:
 Discusses soft [[Determinism]]: the doctrine that, though we are limited by the laws of history and physics, we still have agency in our choices
 ->
 Confirms that, if a choice was made that was not predetermined, then it would likely be breaking some law (an unbroken thing, broken; a contradiction)

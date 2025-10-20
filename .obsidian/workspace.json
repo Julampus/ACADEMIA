@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barnard 2025-2026/IntroBioO&P/Labs/O&P Lab 2 - Insect Ecology.md",
+                "file": "Barnard 2025-2026/IntroPhil/Philosophers/Harry G. Frankfurt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O&P Lab 2 - Insect Ecology"
+              "title": "Harry G. Frankfurt"
             }
           }
         ]
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 217.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,41 +208,47 @@
   },
   "active": "1e10f343be854739",
   "lastOpenFiles": [
-    "Barnard 2025-2026/IntroBioO&P/Labs/O&P Lab 3 - Urban Tree Ecology and Diversity.md",
-    "Barnard 2025-2026/IntroBioO&P/Labs/O&P Lab Study Guide.md",
-    "Barnard 2025-2026/IntroBioO&P/Labs/O&P Lab 5 - Sunflower Germination.md",
-    "Barnard 2025-2026/IntroBioO&P/Labs/O&P Lab 1 - Insect Ecology.md",
-    "Barnard 2025-2026/IntroBioO&P/Labs/O&P Lab 4 - Green Roofs and Biodiversity.md",
-    "Barnard 2025-2026/IntroBioO&P/Labs/O&P Lab 2 - Insect Ecology.md",
-    "Barnard 2025-2026/IntroBioO&P/Organisms/Asteraceae.md",
-    "Barnard 2025-2026/IntroBioO&P/Chapter 23 - Paleobiology and Macroevolution.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Evolution.md",
-    "Barnard 2025-2026/IntroBioO&P/Organisms/Organism Masterlist.md",
-    "Barnard 2025-2026/IntroBioO&P/Organisms/Chaetodipus.md",
-    "Barnard 2025-2026/IntroBioO&P/Organisms/Archaeopteryx.md",
-    "Barnard 2025-2026/IntroBioO&P/Chapter 56 - Animal Behavior.md",
-    "Barnard 2025-2026/IntroBioO&P/Chapter 21 - Microevolution and Genetic Changes within Populations.md",
-    "Barnard 2025-2026/IntroPhil/PhilNotes/What is the Philosopher.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Adaptive Radiation.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Speciation.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Reproductive Isolation.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Preservation (Biology).md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Learning (Biology).md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Trophic Levels.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Trophic cascade.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Symbiosis.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Mutualism.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Life History.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Keystone Species.md",
+    "OIP-3971966625.jpg",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Alternate Possibilities and Moral Responsibility.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Harry G. Frankfurt.md",
+    "Images/Anselm_of_Canterbury,_seal.svg.png",
+    "Images",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Protagoras.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Pythagoras.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/René Descartes.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Sappho.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Socrates.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Thales.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Thomas Aquinas.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Maimonides.md",
+    "Barnard 2025-2026/IntroPhil/PhilLexicon/Cosmology.md",
+    "Barnard 2025-2026/IntroPhil/PhilLexicon/Ontology.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Guide for the Perplexed.md",
+    "Images/St-thomas-aquinasFXD.jpg",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Galen.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Blaise Pascal.md",
+    "Barnard 2025-2026/IntroPhil/PhilNotes/Pensées.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Anaximander.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Anaximenes.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Anselm of Canterbury.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/David Lewis.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/David Lewis 1.md",
+    "Images/OIP-2569817986.jpg",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Augustine of Hippo.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Anaxagoras.md",
+    "Barnard 2025-2026/IntroPhil/Philosophers/Aristotle.md",
+    "Images/e5f509d88673b3bf.jpg",
+    "Images/oil-Saint-Augustine-canvas-Philippe-de-Champaigne-3806874288 1.jpg",
+    "Images/oil-Saint-Augustine-canvas-Philippe-de-Champaigne-3806874288.jpg",
+    "Barnard 2025-2026/IntroPhil/PhilDocs/Frankfurt - AlternatePossibilitiesMoral - 1969.pdf",
+    "Barnard 2025-2026/IntroPhil/PhilLexicon/Truth.md",
+    "Barnard 2025-2026/IntroPhil/PhilDocs/Lewis - ParadoxesTimeTravel - 1976.pdf",
     "Barnard 2025-2026/IntroPhil/PhilDocs/Aristotle.pdf",
     "docs.google.com/presentation/d/1D9oB9oWqWrxlEiaNJqvyhQ0-RKpFDKDGEUADdOD8gXw",
     "docs.google.com/presentation/d",
     "docs.google.com/presentation",
     "docs.google.com",
     "Barnard 2025-2026/IntroPhil/PhilDocs/Turing - ComputingMachineryIntelligence - 1950.pdf",
-    "Barnard 2025-2026/IntroPhil/PhilDocs/Springer - TheIncompatibilityofFreeWillandDeterminism.pdf",
-    "Barnard 2025-2026/IntroPhil/PhilDocs/Ban Zhao - Traveling Eastward.pdf",
-    "Barnard 2025-2026/IntroPhil/PhilDocs/Ban Zhao - Three Short Poems.pdf",
-    "Barnard 2025-2026/IntroPhil/PhilDocs/Ban Zhao - Lessons For Women.pdf"
+    "Barnard 2025-2026/IntroPhil/PhilDocs/Springer - TheIncompatibilityofFreeWillandDeterminism.pdf"
   ]
 }

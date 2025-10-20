@@ -1,5 +1,5 @@
 #philosophy 
-
+![[e5f509d88673b3bf.jpg]]
 Author of:
 [[Metaphysics (Aristotle)]]
 

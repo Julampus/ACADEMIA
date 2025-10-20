@@ -1,6 +1,7 @@
 #philosophy 
 Wrote [[Proslogion]]
 Argued for Gods existence through [[Ontology]]
+![[Anselm_of_Canterbury,_seal.svg.png]]
 
 ==Ideas:==
 The most perfect thing must necessarily be God

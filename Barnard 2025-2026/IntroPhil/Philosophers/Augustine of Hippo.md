@@ -1,6 +1,8 @@
  #philosophy 
- aka. Saint Augustine or Saint August
-*==**Ideas:**==*
+ ![[oil-Saint-Augustine-canvas-Philippe-de-Champaigne-3806874288 1.jpg]]aka. Saint Augustine or Saint August
+ 
+ A radical
+*==**His Ideas:**==*
 God is Supremely Good
 Everything that exists is Good
 	Because God, the Supremely (infinite) Good, created all things

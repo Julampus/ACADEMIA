@@ -1,6 +1,7 @@
 #philosophy 
-
-Argued that, though we cannot fully comprehend God's infinity through his finite effects, the very existence of his effects prove his own existence. In *Summa theologiae*
+Of the theory of the **First Causer**
+![[St-thomas-aquinasFXD.jpg]]
+Argued that, though we cannot fully comprehend God's infinity through his finite effects, the very existence of his effects prove his own existence. In *Summa theologiae* 
 
 Somewhat of a cosmological argument for God
 
