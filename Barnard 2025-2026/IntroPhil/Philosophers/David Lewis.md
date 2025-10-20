@@ -28,6 +28,11 @@ Seems heavily contrived, though basically argues that if a law-breaking event, a
 
 No miracle actually happens in our world, it is just a relative term to describe other possible worlds with different laws
 
+"Physics doesn't have to work the way it does" - Ding
+	We aren't in the other worlds where the miracles are occurring, as they are only miracles from our point of view.
+
+==Main Idea== - [[Determinism]] does not eliminate the *principle of alternate possibilities* (what you <u>could have</u> done)
+
 ## Thought Cabinet
 How can one observe a *divergence miracle*... wouldn't we be able to see this occurring
 
