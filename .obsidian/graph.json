@@ -5,8 +5,15 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "tag:#textbook  ",
+      "color": {
+        "a": 1,
+        "rgb": 9437155
+      }
+    },
     {
       "query": "tag:#philosophy  ",
       "color": {
@@ -41,11 +48,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.3671875,
+  "repelStrength": 11.5625,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.190968040637449,
+  "linkDistance": 135,
+  "scale": 0.04682858058407799,
   "close": true
 }

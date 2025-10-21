@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f23798a5fd4a9942",
+            "id": "7f6751829a7e90e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barnard 2025-2026/IntroBioO&P/Organisms/Organism Masterlist.md",
+                "file": "Barnard 2025-2026/IntroBioO&P/Labs/O&P Lab 1 - Insect Ecology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organism Masterlist"
+              "title": "O&P Lab 1 - Insect Ecology"
+            }
+          },
+          {
+            "id": "9219eb141ff5e8fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Barnard 2025-2026/IntroBioO&P/Chapter 21 - Microevolution and Genetic Changes within Populations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 21 - Microevolution and Genetic Changes within Populations"
+            }
+          },
+          {
+            "id": "6d60acb3c3513916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Barnard 2025-2026/IntroBioO&P/BioLexicon/Conservation Biology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conservation Biology"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,13 +132,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barnard 2025-2026/IntroBioO&P/Organisms/Organism Masterlist.md",
+                "file": "Barnard 2025-2026/IntroBioO&P/BioLexicon/Conservation Biology.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Organism Masterlist"
+              "title": "Outline of Conservation Biology"
             }
           },
           {
@@ -118,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barnard 2025-2026/IntroPhil/PhilNotes/What is the Philosopher.md",
+                "file": "Barnard 2025-2026/IntroBioO&P/BioLexicon/Conservation Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What is the Philosopher"
+              "title": "Backlinks for Conservation Biology"
             }
           },
           {
@@ -170,7 +199,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2f3d2ff8182d3c5c",
@@ -208,30 +238,43 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "publish:Publish changes...": false,
+      "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f23798a5fd4a9942",
+  "active": "6d60acb3c3513916",
   "lastOpenFiles": [
+    "Barnard 2025-2026/IntroBioO&P/Chapter 21 - Microevolution and Genetic Changes within Populations.md",
+    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Conservation Biology.md",
+    "Untitled.md",
+    "Barnard 2025-2026/IntroBioO&P/Labs/O&P Lab 1 - Insect Ecology.md",
+    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Evolution.md",
+    "Allelic Frequency.md",
+    "Conservational Biology.md",
+    "Barnard 2025-2026/IntroPhil/PhilLexicon/Free Will.md",
+    "Barnard 2025-2026/IntroBioO&P/Organisms/Mustela nigripes.md",
+    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Error.md",
+    "Barnard 2025-2026/IntroPhil/PhilLexicon/Dialectic.md",
+    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Natural Selection.md",
+    "Barnard 2025-2026/IntroBioO&P/Organisms/Organism Masterlist.md",
     "Barnard 2025-2026/IntroBioO&P/BioLexicon/Phylogenetics.md",
     "Barnard 2025-2026/IntroBioO&P/Chapter 24 - Systematics and Phylogenetics; Revealing the Tree of Life.md",
     "Barnard 2025-2026/IntroBioO&P/Chapter 51 - Ecology and the Biosphere.md",
     "Barnard 2025-2026/IntroBioO&P/BioLexicon/Domain.md",
     "Barnard 2025-2026/IntroBioO&P/Chapter 23 - Paleobiology and Macroevolution.md",
     "Barnard 2025-2026/IntroBioO&P/Chapter 22 - Speciation.md",
-    "Barnard 2025-2026/IntroBioO&P/Chapter 21 - Microevolution and Genetic Changes within Populations.md",
     "Barnard 2025-2026/IntroBioO&P/O&P Bio Study Guide.md",
     "Barnard 2025-2026/IntroBioO&P/Chapter 20 - Development of Evolutionary Thinking.md",
     "Barnard 2025-2026/IntroBioO&P/Chapter 56 - Animal Behavior.md",
@@ -241,20 +284,8 @@
     "Barnard 2025-2026/IntroBioO&P/Chapter 52 - Population Ecology.md",
     "Images/Anselm_of_Canterbury,_seal.svg.png",
     "Images/OIP-2569817986.jpg",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Cladistics.md",
-    "Barnard 2025-2026/IntroBioO&P/Organisms/Organism Masterlist.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Morphology.md",
-    "Barnard 2025-2026/IntroPhil/PhilLexicon/Parsimony.md",
-    "Barnard 2025-2026/IntroBioO&P/Organisms/Trout.md",
-    "Barnard 2025-2026/IntroPhil/PhilLexicon/The Problems of Philosophy.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Clade.md",
-    "Barnard 2025-2026/FYW The Queer-Trans Self/The Child Formerly Known as _____.md",
     "Barnard 2025-2026/FYW The Queer-Trans Self/FYWDocs/CathyCohen.pdf",
     "Barnard 2025-2026/FYW The Queer-Trans Self/FYWDocs/Morrison, Unspeakable Things.pdf",
-    "Barnard 2025-2026/FYW The Queer-Trans Self/Performative Acts and Gender Constitution.md",
-    "Barnard 2025-2026/FYW The Queer-Trans Self/Redefining Realness.md",
-    "Barnard 2025-2026/FYW The Queer-Trans Self/Punks, Bulldaggers, and Welfare Queens.md",
-    "Barnard 2025-2026/FYW The Queer-Trans Self/Unspeakable Things Unspoken.md",
     "Barnard 2025-2026/IntroPhil/PhilDocs/Frankfurt - AlternatePossibilitiesMoral - 1969.pdf",
     "Barnard 2025-2026/FYW The Queer-Trans Self/FYWDocs/CathyCohen 1.pdf",
     "Barnard 2025-2026/FYW The Queer-Trans Self/FYWDocs/Exile and Pride - Freaks and Queers.pdf",

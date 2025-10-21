@@ -45,6 +45,7 @@ Selection can occur in the form of:
 		Also when different alleles are favored in different environments
 		Or when rarity of a phenotype provides an advantage
 		E.g. Malaria
+See [[Conservation Biology]] for how to maintain phenotypic and allelic variation and diversity
 
 Some variations are neutral, according to the *neutral variation hypothesis*
 	Can switch to being harmful or beneficial with growth and species proliferation

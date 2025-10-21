@@ -4,11 +4,15 @@
 
 Occurs from:
 	Genetic Drift
+		Note that allele frequencies change slower in larger populations and faster in smaller populations
+		Genetic drift is constantly occurring in any population, just at different intensities
 	Gene flow
 	Random Mutation
 	[[Natural Selection]]
 	Sexual selection - leads to sexual dimorphism
 See [[Hardy-Weinberg principle]] for Null model of evolution
+
+Motion of [[Allelic Frequency]] dictates evolution
 
 *Darwin's Theory*
 1. **Common Ancestry** Darwin provided purely physical, rather than spiritual, explanations for the origins of biological diversity. 
