@@ -1,6 +1,6 @@
-#biology 
+#biology #textbook 
 ## Main Text
-### 55.1 - The Biodiversity Crisis on Land, in the Sea, and in River Systems
+#### 55.1 - The Biodiversity Crisis on Land, in the Sea, and in River Systems
 Deforestation
 +
 Desertification (ground water receding so that less water is available)
@@ -13,28 +13,28 @@ Global Warming
 Hydrologic alterations from dams and other factors change [[Marine Habitat]]s and organismal [[Life History]]
 
 Extinction often a result from ***overexploitation***
-### 55.2 - Specific Threats to biodiversity
+#### 55.2 - Specific Threats to biodiversity
 *Habitat Fragmentation* - when habitat patches are reduced (only smaller populations can fill these niches now)
 Pollution spreads via. [[Biological Magnification]]
 
 Invasive species can cause extinction between other species through [[Parasitism]] or by carrying foreign diseases
 
 Humans have caused the world biomass of insects to drop by **40%** since 1975
-### 55.3 - Ecosystem Services That Biodiversity Provides
+#### 55.3 - Ecosystem Services That Biodiversity Provides
 Diverse ecosystems provide 
 	*provisioning* services (e.g. Natural Product) 
 	*regulating* and *support* services (holding water and nutrients, purifying air, removing waste, pollination.)
 
-### 55.4 - Which Species and Ecosystems Are Most Threatened by Human Activities
+#### 55.4 - Which Species and Ecosystems Are Most Threatened by Human Activities
 Several organisms are in danger of extinction - measured by the IUCN... categorizes and taxonomizes extinction
 	[[Extinction]]
-### 55.5 - Conservation Biology: Principles and Theory
+#### 55.5 - Conservation Biology: Principles and Theory
 [[Conservation Biology]]
 Species-area effect: large [[habitat]] patches harbor more species than small [[habitat]] patches
 
 Analyses of diversity = *beta-diversity*
 
-### 55.6 - Conservation Biology: Practical Strategies and Economic Tools
+#### 55.6 - Conservation Biology: Practical Strategies and Economic Tools
 [[Preservation (Biology)]]
 [[Mixed-use Conservation]]
 [[Restoration (Biology)]]

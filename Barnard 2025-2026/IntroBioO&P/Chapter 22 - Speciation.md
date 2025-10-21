@@ -1,4 +1,4 @@
-#biology 
+#biology #textbook 
 ## Why It Matters
 Hunting for birds of paradise ([[Paradisaea apoda]])
 	Both western explorers and indigenous people on the island of New Guinea had the same classifications for all the species of birds found on the island

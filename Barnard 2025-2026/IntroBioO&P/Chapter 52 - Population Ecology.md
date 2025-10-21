@@ -1,16 +1,16 @@
-#biology 
+#biology #textbook 
 [Slides](https://docs.google.com/presentation/d/1CgIOR2C6lUxXdro_FISCwUh7Vr6nDaKq/edit?usp=sharing&ouid=116079431008112010280&rtpof=true&sd=true)
 ## Why it Matters... 
 Invasive animals can disrupt populations (Rabbits in Victoria, Australia)
 	The bunnies adapted to whatever technologies researchers threw their way
 		Viruses, fences, predators, etc.
 An example of how questions about **population dynamics** (populations changing) can help us inform decisions about the world around us
-## Key Concepts
-### 52.1 Population Characteristics
+## Main Text
+#### 52.1 Population Characteristics
 See [[Population Characteristic]]
-### 52.2 Demography
+#### 52.2 Demography
 See [[Demography]]
-### 52.3 The Evolution of Life Histories
+#### 52.3 The Evolution of Life Histories
 See [[Life History]]
 Energy budget of an organism is dependent on maintenance, growth, and reproduction ("trade-offs")
 	A trade-off e.g. = fecundity and parental care

@@ -29,7 +29,7 @@ He believes there must exist an object that is the origin of the sense data
 **Inference to the Best Explanation** (IBE)
 	Out of all the explanations, you are justified in selecting the best explanation... (most plausible, as it gives you a good reason, even if all are logically valid) 
 Must consider...
-	*Parsimony* - the simplest answer is "most likely" to be true, or the best explanation (e.g. Ockham's Razor)
+	*[[Parsimony]]* - the simplest answer is "most likely" to be true, or the best explanation (e.g. Ockham's Razor)
 		Simplicity is historically contingent
 	*Unity* - does it form a cohesive whole
 	*Consistency* - does it avoid contradicting itself

@@ -8,7 +8,7 @@
 [[Green Algae]]
 #### Bacteria
 [[Cyanobacteria]]
-#### Birds (Dinosaurs)
+#### Birds (Reptilia)
 [[Archaeopteryx]]
 [[Geospiza]]
 [[Paradisaea apoda]]
