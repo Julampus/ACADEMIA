@@ -19,7 +19,7 @@ The prevailing **view of homosexuality at the time** was of "gender inversion"
 	Men acting like women or vice verse rather than a distinct thing we would think of as "sexuality"
 
 ### The Social Power of Medicine
-Medicine doesn't only have functions as a technology, but also a tool used for social change (often for the worse e.g. frenology)
+Medicine doesn't only have functions as a technology, but also a tool used for social change (often for the worse e.g. phrenology)
 Transgender-ism often medicalized even though it is viewed through a social lens (as gender is socially constructed)
 	Think *dysphoria*, often treated as a mental illness or even sickness
 	Karl Heinrich Ulrichs, as Austrian writer in the *1860*'s, published a book titled *Researches on the Riddle of "Man-Manly" Love* - outlining the existence of gender "urnings" (a similar concept to dysphoria) described as "female soul enclosed within a male body"
