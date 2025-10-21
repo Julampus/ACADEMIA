@@ -8,7 +8,7 @@ Proto-biology was called **Natural History** (a study that looked at organisms i
 #### 20.2 - Scientists Slowly Became Aware of Change in the Natural World
 **[[Biogeography]]** - the world distribution of plants and animals
 
-*Morphology* - comparing the anatomical structure and their respective functions in various organisms
+*[[Morphology]]* - comparing the anatomical structure and their respective functions in various organisms
 	Vestigial structures argued to have been functional in ancestral organisms even before the theory of evolution
 
 Fossils showed evidence of prior organisms (at the time believed to not have been discovered yet) - theory of *catastrophism* formed (of mass local extinctions wiping out ecosystems before an idea similar to ecological succession would take hold)

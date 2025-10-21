@@ -20,3 +20,4 @@ The train is where I read this poem, read it tunneling, barreling across the cit
 "& means he is the kind of man who wants a boy to ruin him. - To carve a hole & move inside. " -> Observing a distinct separation between want and action, we often pursue things that we feel disconnected from, that we don't want
 
 "An image of ourselves inside ourselves" -> there are two selves, as well as the selves of everyone else we ever meet
+
