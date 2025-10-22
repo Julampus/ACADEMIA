@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "The Paradoxes of Time Travel"
             }
+          },
+          {
+            "id": "d266f04f85c62188",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Barnard 2025-2026/IntroPhil/PhilNotes/The Paradoxes of Time Travel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The Paradoxes of Time Travel"
             }
           },
           {
@@ -169,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "2f3d2ff8182d3c5c",
@@ -222,7 +234,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e10f343be854739",
+  "active": "d266f04f85c62188",
   "lastOpenFiles": [
     "Barnard 2025-2026/IntroPhil/PhilNotes/The Paradoxes of Time Travel.md",
     "Barnard 2025-2026/IntroBioO&P/Labs/O&P Lab 1 - Insect Ecology.md",
