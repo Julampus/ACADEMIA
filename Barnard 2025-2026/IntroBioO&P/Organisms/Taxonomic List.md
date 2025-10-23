@@ -1,13 +1,10 @@
 #biology 
-#### Plants
-[[Asteraceae]]
-[[Brassica]]
-#### Angiosperms
-[[Compositae]]
-#### Algae 
-[[Green Algae]]
+## [[Prokaryotes]]
 #### Bacteria
 [[Cyanobacteria]]
+#### Archaea
+## [[Eukaryotes]]
+### [[Animalia (Kingdom)]]
 #### Birds (Reptilia)
 [[Archaeopteryx]]
 [[Geospiza]]
@@ -15,7 +12,7 @@
 #### Fish
 [[Trout]]
 #### Mammalia
-##### Placental
+##### Placental/Chordata
 [[Chaetodipus]]
 [[Homo sapiens]]
 [[Mustela nigripes]]
@@ -24,4 +21,11 @@
 [[Daphnia]]
 [[Bosmina]]
 [[Eurosta]]
-
+### [[Plants (Kingdom)]] 
+*Most abundant on earth, by biomass*
+[[Asteraceae]]
+[[Brassica]]
+#### Angiosperms
+[[Compositae]]
+#### Algae 
+[[Green Algae]]
