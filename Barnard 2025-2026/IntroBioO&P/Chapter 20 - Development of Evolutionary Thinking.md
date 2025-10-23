@@ -24,9 +24,7 @@ Fossils showed evidence of prior organisms (at the time believed to not have bee
 See [[Evolution]] for Darwin's explanation
 
 #### 20.3 - Evolutionary biology since Darwin
-
 Evolution notably not always gradual -> *Gregor Mendel* follows with pedigree tables
-
 ## Thought Cabinet
 Evolution evidence from:
 1. Biogeography

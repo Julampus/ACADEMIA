@@ -4,4 +4,4 @@
 
 *Homologous structures*, that is, similar structures in morphology found across separate species, often tend to depict  [[Evolution]]ary relation that elucidates the function of the organism's structure.
 	Can potentially be found exclusively in development
-**Analogous structures**, similar structures that occur due to convergent evolution rather than due to common anscestry
+**Analogous structures**, similar structures that occur due to convergent evolution rather than due to common ancestry -> called **Homoplasy**

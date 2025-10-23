@@ -1,15 +1,15 @@
 #biology #textbook
 ## Why it Matters...
 ...[update]
+[[Systematics]]
 ## Main Text
 #### 24.1 - Nomenclature and Classification
 Animals are traditionally classified with a two-word name (*binomial nomenclature)*, proposed by Linnaeus
-	Linnaeus treated as t\he godfather of taxonomy
+	Linnaeus treated as the godfather of taxonomy
 	E.g. *homo* (genus) *sapien* (species)
 Limitations of *binomial nomenclature*
 	Many traditional groupings are paraphyletic (they exclude descendants that share a common ancestor) and can misrepresent actual evolutionary history
 	Doesn't account for *Horizontal Gene Transfer*
-	... check slides
 	Sometimes classifications made were made arbitrarily
 
 Animals are organized by taxonomic hierarchy, with those on the lower-end taxa having closer common relatives to those sharing higher-end taxa.
