@@ -1,6 +1,6 @@
 #biology #lab 
 ## Lab Description
-In this lab, we planted sunflower ([[Asteraceae]]) seeds in three planters filled with different growing media: Soil, Soil & Gravel, and Soil & Woodchips. We predicted that the sunflowers would grow best in pure soil, as the general scientific consensus is that sunflowers growing in soil and woodchips slows growth rate and stunts potential growth height.
+In this lab, we planted sunflower ([[Asteraceae]]) seeds in three planters filled with different growing media: Soil, Soil & Gravel, and Soil & Woodchips (another group, rather than testing soil substrate, was testing various levels of salinity in the water). We predicted that the sunflowers would grow best in pure soil, as the general scientific consensus is that sunflowers growing in soil and woodchips slows growth rate and stunts potential growth height.
 A dissection of the individual florets of the sunflower was conducted.
 A collection and analysis of the data will be performed the following lab
 ## Notes
@@ -36,7 +36,7 @@ Sunflower fruit - Achene
 	*Seed* - inner product... the part you consume
 			Endosperm - nutritious tissue within seed, results from fertilization by second plant sperm
 			Seed embryo:
-				==Cotyledons== - seed leaf (embryonic center of the seed; serves as nutritional center of plant until it can germinate)
+				==Cotyledons== - seed leaf (embryonic center of the seed; serves as nutritional center of plant until it can germinate - what spews out of the seed upon germination)
 				<u>Radicle</u> - embryonic root
 				Hypocotyl - region where cotyledons attach to radicle
 				[Plumule] - everything you find above the soil

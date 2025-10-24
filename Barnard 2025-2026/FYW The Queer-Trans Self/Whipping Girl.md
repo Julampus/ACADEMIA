@@ -14,12 +14,9 @@ It is often trans women who are sensationalized (and not other trans or genderqu
 
 Trans women are ridiculed for embracing femininity (being accused of chalking all of womanhood to outfits, makeup, etc.) but ridiculed for not looking feminine enough/looking too masculine (told that they aren't trying hard enough, that they are a threat, that they aren't doing "transness" properly)
 
-
-The way in which the media focusses on trans women fetishizes their femininity. 
-
-Trans coming-out stories always include a "before" and an "after" photo, reinforcing the idea of naturalized, opposite sexes and inflating the shock that comes from switching sexes.
-Interviews of trans people often included B-roll footage of them putting on makeup, dresses, and doing stereotypically feminine things. Trans women who wouldn't agree to do this kind of footage would not be interviewed
-
+The way in which the media focusses on trans women fetishizes their femininity:
+	Trans coming-out stories always include a "before" and an "after" photo, reinforcing the idea of naturalized, opposite sexes and inflating the shock that comes from switching sexes.
+	Interviews of trans people often included B-roll footage of them putting on makeup, dresses, and doing stereotypically feminine things. Trans women who wouldn't agree to do this kind of footage would not be interviewed
 Movies depicting trans women usually fell into two categories:
 	The deceptive tranny - the perverted trans woman who passes and deceives other people with her beauty; often villainized or made the subject of disgust
 	The pathetic tranny - the sympathetic trans woman who doesn't pass, often is leaned into for comedic effect or for pity
