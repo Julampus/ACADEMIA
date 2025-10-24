@@ -7,10 +7,17 @@ Establishes and defines a clear language to talk about the trans and genderqueer
 	*Transsexual* - people who change, or seek to change, sex from the one assigned at birth to another sex.
 		It is important to note that note all transsexual's issues are the same (notably, trans men face wildly different concerns to trans women)
 	**Transphobia** - the irrational fear of, or discrimination against, trans people
-	**Trans-misogyny** - the view of men as superior, applied to argue that transness is unnatural or something to be mocked because of its challenging conventional ideas of masculinity 
+	**Trans-Misogyny** - the view of men as superior, applied to argue that transness is unnatural or something to be mocked because of its challenging conventional ideas of masculinity
+	**Oppositional-Sexism** - the view that there exist two sexes that are opposites of each other (with the implication that one is inherently strong while the other is weak, rational versus emotional; also implying that these are categories that cannot be changed) 
+	***Subconscious Sex*** - some people have some inherent affinity with certain psychological traits that we have categorized as sex
+		Could potentially explain why there exist people who, though born one sex but requiring sex reassignment surgery early on, will gravitate towards their "original sex"
+		Also provides some sort of biological baseline for transsexual people
+		There are also some parts of the brain that are very similar between trans women and cis women.
+		Shouldn't be used to invalidate the experience of transgender women, but can provide descriptions for those who identify as transsexual
+		Also combats the idea that gender is entirely socially constructed
 
 It is often trans women who are sensationalized (and not other trans or genderqueer groups) as it is seen as unnatural to reject masculinity (and the inverse: natural to embrace it)
-	Serano discusses the effects she noticed while on HRT, notably ones that enhanced her emotional and sensory perceptions and deenvigorated her, not to lean into stereotype, but to highlight the variance of sex and gender
+	Serano discusses the effects she noticed while on HRT, notably ones that enhanced her emotional and sensory perceptions and de-envigorated her, not to lean into stereotype, but to highlight the variance of sex and gender
 
 Trans women are ridiculed for embracing femininity (being accused of chalking all of womanhood to outfits, makeup, etc.) but ridiculed for not looking feminine enough/looking too masculine (told that they aren't trying hard enough, that they are a threat, that they aren't doing "transness" properly)
 
