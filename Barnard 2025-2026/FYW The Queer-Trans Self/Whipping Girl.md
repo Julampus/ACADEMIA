@@ -17,7 +17,7 @@ Establishes and defines a clear language to talk about the trans and genderqueer
 		Also combats the idea that gender is entirely socially constructed
 
 It is often trans women who are sensationalized (and not other trans or genderqueer groups) as it is seen as unnatural to reject masculinity (and the inverse: natural to embrace it)
-	Serano discusses the effects she noticed while on HRT, notably ones that enhanced her emotional and sensory perceptions and de-envigorated her, not to lean into stereotype, but to highlight the variance of sex and gender
+	Serano discusses the effects she noticed while on HRT, notably ones that enhanced her emotional and sensory perceptions and de-invigorated her, not to lean into stereotype, but to highlight the variance of sex and gender
 
 Trans women are ridiculed for embracing femininity (being accused of chalking all of womanhood to outfits, makeup, etc.) but ridiculed for not looking feminine enough/looking too masculine (told that they aren't trying hard enough, that they are a threat, that they aren't doing "transness" properly)
 
@@ -29,3 +29,18 @@ Movies depicting trans women usually fell into two categories:
 	The pathetic tranny - the sympathetic trans woman who doesn't pass, often is leaned into for comedic effect or for pity
 
 The gory details of surgery are frequently made the subject of scrutiny and fascination when it comes to trans women and trans bodies. It is important to note that most trans women don't go through or even need to go through FFS, SRS, or any other surgical procedure to begin looking feminine and passing as female. It is the *secondary sex characteristics* (the physical, sexed features developed during puberty) that give rise to gendered selves more so than your primary sex characteristics (gonads), in most circumstances
+
+Discusses how trans women must often conform to stereotypical, often oppositional sexist depictions of femininity to receive the very same care that cissexual people can get. Trans women who show up in pants and a t-shirt to appointments regarding gender affirming care will simply not get care more often than not, whereas the same women will show up later in a dress and makeup and receive care. 
+	Pathologizing transness informs a certain selection bias that reinforces the idea of how trans women *should* act, namely as people who reject all forms of masculinity, are attracted to men, etc.
+	Trans women often need to pass before they are even allowed to receive gender-affirming care, a privilege not everyone has access to
+**Ray Blanchard**'s ADP and HSTS (look em up!)
+
+The act of gendering someone (identifying their external, expressed gender) is speculation, not simple observation => e.g. you can be both perceived male or female by two different people in the same situation.
+
+Cissexual people often operate on some form of *cissexual privilege*, in which they tend not to be questioned about their assigned sex and are simply assumed to be cissexual. Transgender women are assumed to be cissexual if they pass well enough, and are thus offered a degree of *conditional cissexual privilege*.
+
+It is a game of tug-of-war between cis people *artificializing* transsexual people and *naturalizing* their own sexes (even though the only difference is that trans people have had to struggle to affirm their own genders)
+
+Gender will almost always give transsexual people anxiety, especially those who have transitioned later in life, because they understand how easily it can be taken away from them
+
+Transsexual people are most often discriminated against by exclusion, transphobia, cissexual privilege, interrogation, mysticism, objectification, and erasure

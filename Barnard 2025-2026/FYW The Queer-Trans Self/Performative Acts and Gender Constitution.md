@@ -49,3 +49,7 @@ A "play" or "theatrical" theory implies that there already exists a gender. Rath
 	Remember, through *time*
 
 "My suggestion is that the body becomes its gender through a series of acts which are renewed, revised, and consolidated through"
+
+We can only come to understand the body, and our selves, within a social context
+By saying it, you also do it.
+Gendering other people is compulsory - we can hardly help it
