@@ -5,6 +5,14 @@
 2. Determinism is true
 3. Free will doesn't seem compatible with determinism
 
+Traditional view of thinking about free will:
+	If you have free will, you have several paths open to you, and you are able to choose one of the paths.
+	"The ability to have done otherwise" -> Yet you have chosen only one of these possibilities
+	Having the options available to you, even if you never choose them
+There exists a distinction between the free will where you have alternate possibilities, but the causes that led to your action (contemporary conception)
+
+[[Compatibilist]] views combine the two: determinism and free will
+
 [[Determinism]] *is not* fate, but more of a linear path, where each starting point has a unique end point
 
 Contemporary philosophers think about free will in the sense of what you are in "control" over

@@ -34,6 +34,8 @@ Lewis says he both can - as he is the most capable as anyone could ever be to ki
 	The issue is whether can coincides with the relevant set of facts (physical facts, potential facts)
 Lewis also proposes another individual, **Tom**, want's to kill the grandfather's partner. His motivations, planning, and even his convictions of himself as a time traveler are all the same. He just isn't a time traveler. Can **Tom** kill his partner? The answer seems to be a quite clear yes. But now there is another issue that arises (can you see it?) 
 What is the difference between *Tim* and **Tom**? It is mostly the causal relationship and logical necessity of the grandfathers life. Now, there could be a branching timeline from this point, though I find that to be quite lame. 
+
+The two truths are not compossible -> Yet there are two definitions of *could*
 ## Thought Cabinet
 How is the concept of the arrow of time playing out in this. In a way, both times, external and internal, are always moving forward. Their relative directions are what change, ultimately. In a way, this can be seen as analogous to a spatial dimension (take your pick of x, y, or z). A negative motion doesn't make too much sense, it is just motion in a direction. Negative motion is merely a relative term.
 But who is to say time works in any way like a spatial dimension‽
