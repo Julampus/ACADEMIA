@@ -15,7 +15,7 @@ See [[Reproductive Isolation]]
 See [[Speciation]]
 #### 22.4 - Genetic Mechanisms of Speciation
 *Polyploidy* (extra copies of chromosomes present in genotype) common in plants:
-	**allopolyploidy** -   spontaneous doubling of homologous chromosomes that don't pair due to hybrid reproduction
+	**allopolyploidy** - spontaneous doubling of homologous chromosomes that don't pair due to hybrid reproduction
 	**autopolyploidy** - spontaneous self-doubling of copies of chromosomes, making *unreduced gametes* (gametes with the same number of chromosomes as their somatic cells that they originated from) double in size during fertilization
 
 Chromosomal fusions or other changes can also result in [[Speciation]]

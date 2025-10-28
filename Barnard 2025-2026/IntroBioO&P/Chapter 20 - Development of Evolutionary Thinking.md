@@ -12,7 +12,7 @@ Proto-biology was called **Natural History** (a study that looked at organisms i
 	Vestigial structures argued to have been functional in ancestral organisms even before the theory of evolution
 
 Fossils showed evidence of prior organisms (at the time believed to not have been discovered yet) - theory of *catastrophism* formed (of mass local extinctions wiping out ecosystems before an idea similar to ecological succession would take hold)
-	**Hutton** contrasted *Cuvier's* theory with his own theory of global **gradualistic change**
+	**Hutton** contrasted *Cuvier's* theory with his own theory of global **gradualist change**
 
 **Lamarcks** theory of stretching and *biological perfecting principle*
 
@@ -21,7 +21,7 @@ Fossils showed evidence of prior organisms (at the time believed to not have bee
 
 *Evolutionary divergence* would explain how some populations were naturally selected to reproduce more offspring depending on their environments
 
-See [[Evolution]] for Darwin's explanation
+See [[Evolution]] for Darwin's explanation - [[Geospiza]]
 
 #### 20.3 - Evolutionary biology since Darwin
 Evolution notably not always gradual -> *Gregor Mendel* follows with pedigree tables

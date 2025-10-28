@@ -69,7 +69,6 @@ Morphological Novelties:
 **Heterochrony** - An organisms premature movement into organismal adulthood
 	E.g. tadpole hatching speeds up when other eggs are being threatened/there are environmental pressures at play
 	*Paedomorphosis* (development of reproductive characteristics in juvenile organisms)) is an example of such
-
 ***Evo-Devo***:
 	PAX6 gene, when turned on, codes for development in an eye
 		So, if it is turned off, a severely malformed eye forms

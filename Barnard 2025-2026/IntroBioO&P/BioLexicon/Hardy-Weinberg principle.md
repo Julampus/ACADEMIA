@@ -15,5 +15,8 @@ Factors that push [[Evolution]]
 $$
 p^2+2pq+q^2=1
 $$
+$$
+p +q=1
+$$
 Where p is one allele, q is another, p^2 is homozygous, q^2 is homozygous, and pq is heterozygous
 Depicts the genotypical frequencies of homozygous and heterozygous traits
