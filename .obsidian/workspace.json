@@ -34,9 +34,22 @@
               "icon": "lucide-file",
               "title": "Whipping Girl"
             }
+          },
+          {
+            "id": "d56cb03b451bb043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Barnard 2025-2026/IntroBioO&P/BioLexicon/Speciation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Speciation"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barnard 2025-2026/FYW The Queer-Trans Self/Whipping Girl.md",
+                "file": "Barnard 2025-2026/IntroBioO&P/O&P Bio Study Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Whipping Girl"
+              "title": "Outline of O&P Bio Study Guide"
             }
           },
           {
@@ -221,8 +234,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b3257be77b9fad7",
+  "active": "75de05b4cadbd38a",
   "lastOpenFiles": [
+    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Speciation.md",
+    "Barnard 2025-2026/FYW The Queer-Trans Self/Whipping Girl.md",
     "Barnard 2025-2026/FYW The Queer-Trans Self/When I Was a Little Girl.md",
     "Barnard 2025-2026/FYW The Queer-Trans Self/Unspeakable Things Unspoken.md",
     "Barnard 2025-2026/FYW The Queer-Trans Self/The Child Formerly Known as _____.md",
@@ -247,8 +262,6 @@
     "Barnard 2025-2026/IntroBioO&P/BioLexicon/Hardy-Weinberg principle.md",
     "Barnard 2025-2026/IntroBioO&P/Chapter 55 - Biodiversity and Conservation Biology.md",
     "Barnard 2025-2026/IntroBioO&P/Chapter 20 - Development of Evolutionary Thinking.md",
-    "Barnard 2025-2026/IntroBioO&P/BioLexicon/Biogeography.md",
-    "Pascal's Wager.md",
     "Barnard 2025-2026/IntroPhil/PhilDocs/Pascal.pdf",
     "Barnard 2025-2026/FYW The Queer-Trans Self/FYWDocs/Butler, J. (1988). Performative Acts and Gender Constitution.pdf",
     "Images/Anselm_of_Canterbury,_seal.svg.png",

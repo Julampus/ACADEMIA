@@ -9,6 +9,6 @@ Speciation split into:
 		Post-zygotic isolation mechanisms begin to develop first before [[Natural Selection]] selects pre-zygotic isolation mechanisms
 	*Secondary contact* can occur, in which a species that has been allopatrically separated from an initial population returns to the original environment as a new, distinct species
 **Sympatric** - resulting from the same environment, often as a result of genetic change/drift
-	Happen through mutations that affect behavior (e.g. diet), development, and genetics (e.g. polyploidy)
-==Peripatric== - New habitat is entered and isolated
+	Happen through mutations that affect behavior (e.g. diet), development, and genetics (e.g. polyploidy/polymorphisms)
+==Peripatric== - New habitat is entered and isolated (founder effect)
 ***Parapatric*** - New habitat comes into contact with original
