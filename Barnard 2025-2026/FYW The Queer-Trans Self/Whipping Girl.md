@@ -44,3 +44,17 @@ It is a game of tug-of-war between cis people *artificializing* transsexual peop
 Gender will almost always give transsexual people anxiety, especially those who have transitioned later in life, because they understand how easily it can be taken away from them
 
 Transsexual people are most often discriminated against by exclusion, transphobia, cissexual privilege, interrogation, mysticism, objectification, and erasure
+
+There exists a certain *efemimania*, as Serano puts it, a hysteria and even fear of femininity exhibited by men. Purses are held at arms length away, anything cute is seen as a certain weakness that drains their masculinity. Young boys are socialized to suppress such emotions, to find them disdainful or gross (internalized sexism)
+	It is interesting, then, that people talk of male privilege as being the only way in which privilege can manifest in sexism. This oversimplification only obscures the real problem of sexism. For instance: a rich white woman and a poor black man have wildly different experiences in life (not to make it a conversation about who is "more oppressed than thou," just to illustrate that these things are all in relation to one another.) Women, thanks to second wave feminism, have opened the door to their own masculine world, and yet men still hesitate to do the same in the inverse direction. What's more, many women actively discourage such feminine behavior in men.
+	Women cross dress all the time, and yet when a man does it, it is seen as fetishistic and discouraged (even when young boys are too little to even be aware of these cultural connotations) - what even are "boy clothes"
+
+Feminism, for the longest time, has been choosy about the people the choose to include under the label of women. First, it was only rich white women. Then, it was "educated" white women. Then white women. Then any "biological" woman (so long as you were born here...) and so on and so forth.
+
+There is undeniable **power** in devaluing the stranglehold that masculinity has on the world (a power that everyone unconsciously contributes to; think of using "he" when speaking generally, prioritizing men's sports/businesses/as social subjects)
+
+Serano demonstrates that the illusions we project onto the *phallus* (the symbol of masculinity representing power, domination, etc.; all centering around the penis) is merely that, an illusion. Bodies are just bodies; our understanding of them shapes how we see, interact, and use them.
+
+"The hardest part [of being trans] has been learning how to take myself seriously when the entire world is constantly telling me that femininity is always inferior to masculinity" (276)
+
+"We should stop buying into the myth of deception, because the truth is that every day, we are all guilty of committing countless acts of assumption" - on interpreting and expressing gender" (250)
