@@ -1,0 +1,4 @@
+#philosophy 
+
+An early proponent pf [[Empiricism]] (though following in the tradition of [[Thales]])
+Believed that knowledge should be discovered not through belief in the hegemony of tradition (as with the Medieval period's emphasis on scholasticism and religious knowledge), but rather by making claims of the world and identifying evidence of such through the senses (and the technology that extends such senses). It is by analyzing the deceit of the senses that we are able to identify who the deceiver really is, so it seems. Bacon also advocated that science is not conducted on the level of the individual inquirer, but rather in dialectic with natural history, data, and the scientific tradition.

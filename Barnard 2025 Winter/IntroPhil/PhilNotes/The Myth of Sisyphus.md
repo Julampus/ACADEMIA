@@ -1,0 +1,10 @@
+#philosophy 
+
+"There is but one truly serious philosophical problem, and that is suicide."
+
+### Absurdity and Suicide
+[[Albert Camus]] outlines the concept of the **[[Absurd]]**, the disconnect between a man and his life, between reason and feeling, between purpose and living, between an individual and their environment. It is this disconnect - as though one was lost out at sea, alone - and confusion that plants the seed of doubt within an individual's life.
+So what are we to do. One way is to lead by example, as [[Friedrich Nietzsche]] had put it, wherein the masses ought to follow the philosophers. This provides one answer, as obviously philosophers like Camus are able to be writing essays like this while remaining to be alive. Another way can be [[Don Quixote]]-ism, where one lives ignorantly and unabashedly. This idea is mirrored in [[Fyodor Dostoevsky]]'s [[Letters from the Underground]], in which the underground man concludes (out of the many abhorrent things he concludes) is that a life left overthinking is not much of a life to live at all.
+### The Myth of Sisyphus
+Camus harkens another form of resolution to the Greek myth of the king Sisyphus, where one ought to take pride (and not necessarily happiness) in the struggle and pursuit of life. It is not that one needs to be enjoying every moment, but that one must acknowledge to live is to suffer, and to live is a culmination of all the good, all the bad, and all the neutral. It is a dangerous lie that we tell ourselves of the pursuit of a better life, as really we must continue to acknowledge that the only life we have is the one we are currently living through, not the hypothetical future life that has less bearing (One can think of how we tend to value our most immediate life more than the potential of our future life...)
+We should not act as though we are entitled to a life of purpose (in a purpose-less universe, what arrogance would it be to believe you are on some grand quest). The experience is the reward just as much as it is the punishment just as much as it is nothing and just as much as it is everything to you.

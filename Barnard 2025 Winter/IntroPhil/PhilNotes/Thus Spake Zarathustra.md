@@ -1,0 +1,4 @@
+#philosophy 
+
+A monumental philosophical work taking the perspective of Zarathustra, a medieval sage that Nietzsche puppeteers in order to give fables and tell tales of becoming an individual in the face of modernity. Introduces, to some degree, the idea of the [[Ubermench]], or the over man; the next evolution of man that no longer has a need for God and can think for himself and act on his own volition with minimal friction.
+	This idea mirrors an idea most commonly espoused at the time (and shared by [[Immanuel Kant]] in [[What is Enlightenment]]) that it is an individual that has the power to change the world around oneself (though Kant argued that this is through [[Reason]]ing, Nietzsche argued to abandon such reasoning in [[Twilight of the Idols]])

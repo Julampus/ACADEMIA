@@ -1,0 +1,5 @@
+#queer 
+Term coined by historian [[Jules Gill-Peterson]]
+That anyone who is vaguely androgenous, uses they/them pronouns, or experiences dysphoria is trans. It is not about abolishing oneself from gender or existing as an unchanged, andro-blob, but rather about the material condition of transsexuals. Legislature in America depends on this notion that theyfabs are transgender so that transsexuals are unable to receive medical transition, something that was conducted since [[Harry Benjamin]]; transness itself holds its history in law since 1866 with the case of [[Frances Thompson]] and the Fourteenth Amendment
+
+"Like the transgender liberalism out of which it emerged in the 1990s, the field’s class bias has tilted against transitioning sex, vainly championing the ostensible superiority of androgyny, or, today, a kind of immaterial, nonbinary idealism." From "Reject Transgender Liberalism" by Gill Peterson

@@ -1,0 +1,3 @@
+#philosophy 
+
+Philosopher of [[Language]] - describes the meaning of a proposition as compositional - made up of the summation of meanings of its parts (but what about order, emphasis, etc?) Compositionalism... 

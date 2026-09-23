@@ -1,0 +1,1 @@
+The proletariat are the working class people - they do not own the means of production (e.g. factory, tools, etc.). Rather, they work for a wage given by the bourgeoisie.

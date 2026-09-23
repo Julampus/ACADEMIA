@@ -1,0 +1,3 @@
+#philosophy 
+[[Explanation]]
+[[Deductive-Nomological]]

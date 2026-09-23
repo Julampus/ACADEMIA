@@ -1,0 +1,3 @@
+#philosophy #language 
+
+Not to be confused with variability, though all vague words are context sensitive; vagueness refers to times when the question "does it really count as 'X'" can be asked. For instance, is a 16 year old a child... ehh I mean kind of. Or, another example is "how many hairs on a head does it take for someone to be bald?" Also hard to say. (Implies that there only exists bald and not bald. It excludes the middle!) It is on the borderline of definition. Variability then follows in when such a child is placed in different contexts.

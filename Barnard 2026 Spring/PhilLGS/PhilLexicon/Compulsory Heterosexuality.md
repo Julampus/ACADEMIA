@@ -1,0 +1,6 @@
+#philosophy 
+
+Philosopher and lesbian scholar *[[Adrienne Rich]]* discusses compulsory heterosexuality in the academic sphere, where in the 70's a majority of "feminist" texts failed to account for the existence of lesbians (which would often debunk their biologically/psychoanalytically based theories of woman). Rich instead argues that heterosexuality should be viewed as an institution, a choice as much as is being lesbian. 
+	Potentially, we can gather the framework that being cis is as much of a choice as is being trans.
+Women are not able to form equal partnership with men, and it is ridiculous to imply that they have no other choice in the matter. It is also impossible to ignore all of female history (e.g. the burning of witches, the institutionalization of the discursive subject of the female hysteric, etc.), and also the fact that society is structured for the male subject. This is similar to what was echoed in the [[Notes from the Second Year]].
+These ideas on the institution ([[Michel Foucault]]) of sexuality informs the [[Pornography]] industry and naturalizes [[Rape]] as merely a symptom of a violent individual (a. la. [[Susan Brownmiller]])

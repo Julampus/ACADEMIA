@@ -1,0 +1,7 @@
+#philosophy 
+
+Part of social philosophy 
+
+[[Rowan Bell]], along with author E.M. Hernandez (and contributed to by [[Ding]]) in "Unmotivating Gender Identity," discusses the origins of the term in the cis-centric medical practices (e.g. the wrong-body model; born this way model) of the 20th century by sexologists like [[John Money]] and [[Harry Benjamin]], and how the acute lived experience of transsexual individuals is lost and condensed into a monolith of cis-intelligible language. Thus, the authors advocate for the supplantation of the concept for one constructed by subaltern queer communities. Trans philosophy, they argue, should be constructed and informed by trans experience, not by an abstraction and idealization of cis life. 
+We do not need the concepts to affirm our own rights (in fact, it is a human right that everyone has to seek medical cafe and mental peace - "[[Ataraxia]]"), and in fact it seems as they are unnecessary and ultimately limit our rights (re: [[Transgender Liberalism]]). This paper is not advocating for some warped nonbinary elitism or a fully androgenous future, but rather the abolition of cisnormative systems of language that control trans lived experience.
+One way of providing new language is looking at how trans people talk about themselves, and promoting them to think critically about their own existence and not buy the narratives that doctors have forced them to adopt ([[Transgender Literature]] as a genre is one avenue where this is already occurring).

@@ -1,0 +1,32 @@
+#philosophy 
+A German [[Enlightenment]] philosopher (1700's) - Lived in Konigsberg, was a practical celebrity in his time for his oeuvre
+
+What he refers to as his "metaphysics" more so resembles what we would call "philosophy" today, though he is more so interested in the question "what can we know" rather than "what exists."
+## Critique of Pure Reason
+Mediates the tension between [[Empiricism]] and [[Rationalism]] by recognizing that humans are neither a blank slate nor able to discern the world through "pure reason." Rather, the combination of **concepts** (a priori reasoning that we are born with: induction, causation, substance, etc. following [[David Hume]]) and *intuitions* (a posteriori empirical data gained through the senses).
+We cannot assume the existence of a material world, and in fact all we have is our sense data formed by our consciousness. We cannot and likely never will be able to capture the world *qua* world (the ==thing 'in itself'==; this is [[noumenal]] reality, the world as it is). Such concepts of god, [[Free Will]], and morality are "==transcendent==," in that they exist beyond the barriers of our reason and sense, forever inaccessible in their pure forms. We can, however, look at the outer bounds of what and where our reason and sense can bring us to answer "what we can and can't know." This idea, that all that exists is our ideas, and that there are limits and things that exceed our limits of [[Reason]] and intuitions, are what we can Transcendental [[Idealism]]. This is also critical philosophy, recognizing the limits of [[Reason]]
+The second half of the work features a dialectic between reason and the transcendent, ending in failure, as one cannot access the transcendent (that [[Søren Kierkegaard]] would explore later)
+## Critique of Practical Reason
+Also provides a deontological approach ([[Deontology]]) to ethics. One cannot derive an "ought" from an "is," as Hume stated, and so the next best thing is to use reason to establish not just personal, individualistic, and selfish *maxims*, but infallible **laws** that we have a duty to uphold. 
+Kant illustrates this through is [[Categorical Imperative]]; that "one should act following a maxim that, if it were to be established as universal law, one would still act in such a way" - roughly, the [[Golden Rule (and shù, 恕)]]. The fundamental basis of these laws boils down to *[[Freedom]]* (but why freedom?) - that is, freedom to act in accordance with one's desires without impeding those of others. Thus, pure reason has a use in ethics, so long as you have some fundamental part of morality to base it on. 
+
+Of course, humans cannot be purely rational beings, as they are immersed in an empirical and distorted world. Thus, for Kant, it is helpful for us to believe in the **soul as being immortal**. If that is taken to be true, then we can aspire to achieve the greatest good (being complete freedom and moral good; a state of ==holiness==) through pure reason, given that we have a form that does not exist as bound to the empirical world.
+Kant also argued that, for us to believe as though we will be **rewarded** by our virtues in the end, we must believe that we have some sense of [[Free Will]] (as this acts as a point of the judgement of our character), and also that **there is some god** to give this reward (as nature cannot)
+Kant. For us to be able to practically achieve the greatest good, we must assume that these transcendental things are true.
+However, who is to say that we cannot achieve an approximation of this good and be just as happy? Who is to say that [[Virtue (Arete; De 德)]] isn't an end of itself?
+In other words, you do not treat other people as means to ends, but as ends themselves. This
+Kant imagines a world that uses pure reason to follow such laws (The "Kingdom of Ends" - similar to the "Universal Will" that [[Jean-Jacques Rousseau]] discussed). 
+## What is Enlightenment
+Outlines that men are plagued, in the modern day, by a *self-imposed immaturity* - (also translated as *minority* or being a minor, a child) - that is, we have resigned our thinking and [[Reason]]ing capacity to others (and, in a way, have become mentally subservient to our rulers). No longer are we free thinkers, where we come up with our own opinions, diagnoses, desires, aspirations, etcetera. Rather, we have become lazy, as (to [[Immanuel Kant]]) being irrational is so much easier that being rational.
+Thus, he advocates that we all exercise our reasoning capacities whenever possible (even when challenging or even when there is risk of failure) so that we become enlightened individuals. Though there don't exist many enlightened individuals today, we must all strive for this process of [[Enlightenment]] in order to become mature individuals.
+However, a surprising backpedaling by Kant shows that this individuation has its limits. Though we apparently should be forming our own ideas and using our own reason, going so far as disagreeing with the mainstream consciousness, if necessary, we must not act in any way to cause disruption to the systems at play. Rather, so long as enough citizens in a society are enlightened, we can simply act in accordance with laws that we disagree with while publicly expressing our distaste for such laws, and soon change will come about. 
+Really disappointing, because although the emphasis on reason is admirable, the bending to power's will as well as the complete distrust of the senses truly make for a dull and static human experience.
+This idea follows quite smoothly from the notion of Cartesian ([[René Descartes]]) doubt of the senses, par for the course of the enlightenment.
+## Thought Cabinet
+This idea of becoming an individual was mirrored by [[Friedrich Nietzsche]] half a century later, though while Kant praised reason, Nietzsche assumedly argued to abandon reason and place emphasis back on the senses.
+
+Modern universities (See [[Women's Colleges]] and the depart from a rigorous, strict way of thinking towards the liberal arts method) are based on a Kantian ideology: The students are allowed to use their [[Reason]]ing capacity in order to divine the underlying [[Truth]] of the world
+
+Finding truth through reason is "harder" than unreason -> Truth is uncomfortable, "thinking for yourself is disturbing if you find comfort in unreason" - you have to bear responsibility
+
+Reason is for the people! (So long as you were born with the privilege to exercise such)

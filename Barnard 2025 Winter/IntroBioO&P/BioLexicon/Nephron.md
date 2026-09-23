@@ -1,0 +1,3 @@
+#biology 
+ Microscopic filtration structure, about ~1 million in a single kidney
+	A combination of filtration in the Bowman's capsule, a bundle of nerves (glomulerous) and a 1-cell thick tubule that then follows with the posterior tubule (where the most reabsorption occurs), then the loop of Henle (which has a very high osmolarity at the peak of the hoop), then the posterior tubule, the collection duct (mostly the reabsorption of water) and the excretory tube (urethra)

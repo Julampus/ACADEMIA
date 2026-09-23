@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "1f7e659eb324eed7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2af9de34e765f006",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0843d0814559aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Russia&West/The Russia that Putin Made.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Russia that Putin Made"
+            }
+          },
+          {
+            "id": "ead6a29f14023ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Russia&West/Europe - A  Bitter Parting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Europe - A  Bitter Parting"
+            }
+          },
+          {
+            "id": "75d2708ccfa45a6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroLinguistics/Phonetics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phonetics"
+            }
+          },
+          {
+            "id": "89fa570d3cfa1330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroLinguistics/Semantics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Semantics"
+            }
+          },
+          {
+            "id": "4471e9281febed5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroLinguistics/Semantics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Semantics"
+            }
+          },
+          {
+            "id": "3b15179b35c2124e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroLinguistics/Pragmatics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pragmatics"
+            }
+          },
+          {
+            "id": "c2dfabd4268bf9d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Russia&West/Europe - A  Bitter Parting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Europe - A  Bitter Parting"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6974b788e43a6ea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "88ca4ed1a23067bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a4510173e87a86c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7a9d211df9fdb07e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "153ee3a9ad016482",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0cfda453342f501f",
+    "type": "split",
+    "children": [
+      {
+        "id": "671548512c097d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97fc59ab1b82d871",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Russia that Putin Made.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "843d7a7d755ab513",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Russia that Putin Made.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "161398a04a4d7ad6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "84e97bbe87d9062e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ecc1f73f1407daa6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Russia that Putin Made.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c2dfabd4268bf9d2",
+  "lastOpenFiles": [
+    "IntroLinguistics/Syntax.md",
+    "IntroLinguistics/Linguistics.md",
+    "IntroLinguistics/Semantics.md",
+    "IntroLinguistics/Pragmatics.md",
+    "IntroLinguistics/Phonetics.md",
+    "IntroLinguistics/Morphology (Linguistics).md",
+    "Russia&West/Europe - A  Bitter Parting.md",
+    "IntroLinguistics",
+    "Russia&West/The Russia that Putin Made.md",
+    "PhilLang/Context Sensitivity.md",
+    "PhilLang/Philosophy of Language.md",
+    "PhilLang",
+    "CogSci Phil.md",
+    "Welcome.md",
+    "Russia&West"
+  ]
+}

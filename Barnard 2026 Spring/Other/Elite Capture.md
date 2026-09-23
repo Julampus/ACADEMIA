@@ -1,0 +1,13 @@
+#philosophy 
+As discussed by [[Olufemi A. Taiwo]] (a Marxist; [[Karl Marx]]), Elite Capture is the process by which ideas that are initially opposed to systems of oppression are repurposed and whitewashed by elites, removed of their revolutionary contexts, and ultimately are used to serve the interests of elites.  
+
+Discusses deference politics as a form of elite capture:
+	'We just need to raise minority voices in these conversation spaces' - This often devolves into tokenism, not tackling the source of the problem which is that minorities and oppressed groups are filtered from entering these spaces to begin with.
+Rather, Taiwo prioritizes constructive politics which actively seeks to restructure the rooms in which conversations are held, reconsidering what it means to have open discourse and listening to those who are "most oppressed"
+
+Feeling bad about one's relation to power is often unproductive for resistance movements - 'we feel bad so that we do not have to act' - our negative emotions or points where we have been oppressed are, rather then good teachers, often clouding of our ideas of change. We need to recognize that there is power in our difference while simultaneously pursuing not to reprimand those who are different to us, but rather rejoice in our commonalities to restructure the system
+
+Proposes a metaphor of a house - the elites are at the top of the house and make all the decisions, but often are left unaffected by the side-effects of such decisions. (For instance, climate change and island nations/tropical countries/coastal cities.) Those at the bottom of the house can band together in numbers to prompt some tangible social change, but if we just change who is in the top of the house, no real change has been made. Rather, we must seek to restructure the house itself. 
+	Another example of such were the anticolonial movements in Africa which led to the independence of many nations, though the established Black bourgeoisie classes still maintained the system of capitalism. Thus oppression was merely rebranded under a liberatory coat of paint. These systems were primarily inherited by the preexisting colonial powers
+
+Also pulls on the ideas of Hans Christian Anderson's 'naked king' parable - often we all realize that the narratives being told are bogus, but we all are complicit in each other's belief of such narratives - it takes a brave child to see through the rouse and proclaim such. This is a key idea of [[Discourse]]

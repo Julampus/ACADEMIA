@@ -1,0 +1,7 @@
+#philosophy 
+## Rape, Racism, and the Capitalist Setting
+*Part of the [[Barnard Sex Conference of 1982]]*
+[[Rape]] is a tool of sexist and racist ideology which, obscured by the discursive myth of the 'black male rapist,' reinforces the class hierarchy and drapes a veil of racial difference over the potentiality of class consciousness. 
+The myth that it is black men who, socially conditioned to 'take what they want,' externalize such a behavior through rape is generally unfounded once one considers that a majority of rape is actually done, not on a racial basis, but on a power basis. In its origins, the myth was constructed alongside is sister of the 'hypersexual black female,' itself a justification for the rape that slave owners enacted on enslaved black women. This signifies that rape has its basis, just as it does in the legislative system, as a tool of enforcing and reifying property. These two myths in conjunction obscure the subject and victim of rape while providing a convenient whipping boy, falling under the classic diversion of 'blame the victim.'
+Nowadays, rape is used as a tool of mass terrorism - enacted by the U.S. army for pleasure or torture. 
+It should be noted that though rape exists within the same race and/or class, this is often constructed as a bribe from the upper classes---a lending  of power from the owner to the worker; the two are grasps at a power and an actualization of masculinity. These cases of rape are what is actually prosicuted against, again to keep up the veil of the impoverished as the 'real' threats.

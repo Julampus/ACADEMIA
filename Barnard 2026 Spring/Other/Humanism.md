@@ -1,0 +1,6 @@
+#philosophy 
+
+[[Renaissance]] humanism was the cultural practice of valuing the liberal arts: sculpture, grammar, rhetoric, poetry, visual arts, and education as means to live a well lived, meaningful life. This form of humanism was intertwined with Christian ([[Christianity]]) thought. The upheaval of classical texts was in reaction to the medieval Christian concepts of the body and humanity was flawed, with heaven being the only end goal that one should anxiously jump at achieving. Humanism in this era saw life on earth with its own good, though scholars conceded that [[Heaven (Tian, 天 )]] appeared to be the supreme [[Form]] of good.
+Philosophers at this time sought to reconcile ethical concepts from the ancient times with scripture, sought to reinterpret platonic thought just as [[Neoplatonism]] and platonism
+
+Modern humanism takes after the renaissance tradition, though is mostly divorced from the classical readings and religious underpinnings. Notably secular, humanism is a way of life that emphasizes the value of human lived experience and condition.

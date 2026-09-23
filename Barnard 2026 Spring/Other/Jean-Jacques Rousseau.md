@@ -1,0 +1,9 @@
+#philosophy 
+
+A French [[Enlightenment]] political philosopher, essayist, and novelist in the era of [[Thomas Hobbes]] and [[John Locke]]
+Furthered the social contract theory of the aforementioned philosophers, arguing that property was the first instance of inequality (as with Locke) and that society is inherently unequal and unjust because of this first inequality. Governments seek to amend this, though they too fail because of the way power is condensed and distributed. Rousseau saw the man in the state of nature as only desiring women, food, and sleep, and was thus free from the ails of modern society (greed, lust, gluttony, sin). This perpetuated the enlightenment view of the "noble savage"
+
+Rousseau also discussed the concept of the "***general will***" as a way to access a state of individual moral freedom. The concept is not to be confused with the "will of the majority, the people," as this summation is corrupted by individual selfish desires, but rather the shared desires of all of humanity that is of common interest. By acting in accordance with this will, or by a government "forcing" citizens to act in accordance with this, we establish individual freedoms alongside protections of the body and property.
+
+Rousseau was critical of both representative democracies and sovereign states, the former for their modern scale being impractical and representing not the general will of the entire population, but that of individuals (thus making the system unequal). The latter was criticized for the opposite reason, its representation being too narrow though still representing he will of individual. Potentially the ideal government would mimic that of the Athenian agora, but this system is likely subject to the same pitfalls and was only appealing due to historical romanticization. 
+
